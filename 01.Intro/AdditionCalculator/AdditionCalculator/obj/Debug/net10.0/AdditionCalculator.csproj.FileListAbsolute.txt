@@ -1,0 +1,14 @@
+/home/behnam/c_sharp/AdditionCalculator/AdditionCalculator/bin/Debug/net10.0/AdditionCalculator
+/home/behnam/c_sharp/AdditionCalculator/AdditionCalculator/bin/Debug/net10.0/AdditionCalculator.deps.json
+/home/behnam/c_sharp/AdditionCalculator/AdditionCalculator/bin/Debug/net10.0/AdditionCalculator.runtimeconfig.json
+/home/behnam/c_sharp/AdditionCalculator/AdditionCalculator/bin/Debug/net10.0/AdditionCalculator.dll
+/home/behnam/c_sharp/AdditionCalculator/AdditionCalculator/bin/Debug/net10.0/AdditionCalculator.pdb
+/home/behnam/c_sharp/AdditionCalculator/AdditionCalculator/obj/Debug/net10.0/AdditionCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/behnam/c_sharp/AdditionCalculator/AdditionCalculator/obj/Debug/net10.0/AdditionCalculator.AssemblyInfoInputs.cache
+/home/behnam/c_sharp/AdditionCalculator/AdditionCalculator/obj/Debug/net10.0/AdditionCalculator.AssemblyInfo.cs
+/home/behnam/c_sharp/AdditionCalculator/AdditionCalculator/obj/Debug/net10.0/AdditionCalculator.csproj.CoreCompileInputs.cache
+/home/behnam/c_sharp/AdditionCalculator/AdditionCalculator/obj/Debug/net10.0/AdditionCalculator.dll
+/home/behnam/c_sharp/AdditionCalculator/AdditionCalculator/obj/Debug/net10.0/refint/AdditionCalculator.dll
+/home/behnam/c_sharp/AdditionCalculator/AdditionCalculator/obj/Debug/net10.0/AdditionCalculator.pdb
+/home/behnam/c_sharp/AdditionCalculator/AdditionCalculator/obj/Debug/net10.0/AdditionCalculator.genruntimeconfig.cache
+/home/behnam/c_sharp/AdditionCalculator/AdditionCalculator/obj/Debug/net10.0/ref/AdditionCalculator.dll

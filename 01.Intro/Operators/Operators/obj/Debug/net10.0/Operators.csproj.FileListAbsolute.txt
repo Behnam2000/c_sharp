@@ -1,0 +1,14 @@
+/home/behnam/c_sharp/Operators/Operators/bin/Debug/net10.0/Operators
+/home/behnam/c_sharp/Operators/Operators/bin/Debug/net10.0/Operators.deps.json
+/home/behnam/c_sharp/Operators/Operators/bin/Debug/net10.0/Operators.runtimeconfig.json
+/home/behnam/c_sharp/Operators/Operators/bin/Debug/net10.0/Operators.dll
+/home/behnam/c_sharp/Operators/Operators/bin/Debug/net10.0/Operators.pdb
+/home/behnam/c_sharp/Operators/Operators/obj/Debug/net10.0/Operators.GeneratedMSBuildEditorConfig.editorconfig
+/home/behnam/c_sharp/Operators/Operators/obj/Debug/net10.0/Operators.AssemblyInfoInputs.cache
+/home/behnam/c_sharp/Operators/Operators/obj/Debug/net10.0/Operators.AssemblyInfo.cs
+/home/behnam/c_sharp/Operators/Operators/obj/Debug/net10.0/Operators.csproj.CoreCompileInputs.cache
+/home/behnam/c_sharp/Operators/Operators/obj/Debug/net10.0/Operators.dll
+/home/behnam/c_sharp/Operators/Operators/obj/Debug/net10.0/refint/Operators.dll
+/home/behnam/c_sharp/Operators/Operators/obj/Debug/net10.0/Operators.pdb
+/home/behnam/c_sharp/Operators/Operators/obj/Debug/net10.0/Operators.genruntimeconfig.cache
+/home/behnam/c_sharp/Operators/Operators/obj/Debug/net10.0/ref/Operators.dll
