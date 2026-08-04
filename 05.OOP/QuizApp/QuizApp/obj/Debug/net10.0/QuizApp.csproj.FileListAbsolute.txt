@@ -1,0 +1,15 @@
+/home/behnam/c_sharp/QuizApp/QuizApp/bin/Debug/net10.0/QuizApp
+/home/behnam/c_sharp/QuizApp/QuizApp/bin/Debug/net10.0/QuizApp.deps.json
+/home/behnam/c_sharp/QuizApp/QuizApp/bin/Debug/net10.0/QuizApp.runtimeconfig.json
+/home/behnam/c_sharp/QuizApp/QuizApp/bin/Debug/net10.0/QuizApp.dll
+/home/behnam/c_sharp/QuizApp/QuizApp/bin/Debug/net10.0/QuizApp.pdb
+/home/behnam/c_sharp/QuizApp/QuizApp/obj/Debug/net10.0/QuizApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/behnam/c_sharp/QuizApp/QuizApp/obj/Debug/net10.0/QuizApp.AssemblyInfoInputs.cache
+/home/behnam/c_sharp/QuizApp/QuizApp/obj/Debug/net10.0/QuizApp.AssemblyInfo.cs
+/home/behnam/c_sharp/QuizApp/QuizApp/obj/Debug/net10.0/QuizApp.csproj.CoreCompileInputs.cache
+/home/behnam/c_sharp/QuizApp/QuizApp/obj/Debug/net10.0/QuizApp.sourcelink.json
+/home/behnam/c_sharp/QuizApp/QuizApp/obj/Debug/net10.0/QuizApp.dll
+/home/behnam/c_sharp/QuizApp/QuizApp/obj/Debug/net10.0/refint/QuizApp.dll
+/home/behnam/c_sharp/QuizApp/QuizApp/obj/Debug/net10.0/QuizApp.pdb
+/home/behnam/c_sharp/QuizApp/QuizApp/obj/Debug/net10.0/QuizApp.genruntimeconfig.cache
+/home/behnam/c_sharp/QuizApp/QuizApp/obj/Debug/net10.0/ref/QuizApp.dll

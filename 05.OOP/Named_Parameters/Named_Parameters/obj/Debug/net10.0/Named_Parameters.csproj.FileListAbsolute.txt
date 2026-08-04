@@ -1,0 +1,15 @@
+/home/behnam/c_sharp/Named_Parameters/Named_Parameters/bin/Debug/net10.0/Named_Parameters
+/home/behnam/c_sharp/Named_Parameters/Named_Parameters/bin/Debug/net10.0/Named_Parameters.deps.json
+/home/behnam/c_sharp/Named_Parameters/Named_Parameters/bin/Debug/net10.0/Named_Parameters.runtimeconfig.json
+/home/behnam/c_sharp/Named_Parameters/Named_Parameters/bin/Debug/net10.0/Named_Parameters.dll
+/home/behnam/c_sharp/Named_Parameters/Named_Parameters/bin/Debug/net10.0/Named_Parameters.pdb
+/home/behnam/c_sharp/Named_Parameters/Named_Parameters/obj/Debug/net10.0/Named_Parameters.GeneratedMSBuildEditorConfig.editorconfig
+/home/behnam/c_sharp/Named_Parameters/Named_Parameters/obj/Debug/net10.0/Named_Parameters.AssemblyInfoInputs.cache
+/home/behnam/c_sharp/Named_Parameters/Named_Parameters/obj/Debug/net10.0/Named_Parameters.AssemblyInfo.cs
+/home/behnam/c_sharp/Named_Parameters/Named_Parameters/obj/Debug/net10.0/Named_Parameters.csproj.CoreCompileInputs.cache
+/home/behnam/c_sharp/Named_Parameters/Named_Parameters/obj/Debug/net10.0/Named_Parameters.sourcelink.json
+/home/behnam/c_sharp/Named_Parameters/Named_Parameters/obj/Debug/net10.0/Named_Parameters.dll
+/home/behnam/c_sharp/Named_Parameters/Named_Parameters/obj/Debug/net10.0/refint/Named_Parameters.dll
+/home/behnam/c_sharp/Named_Parameters/Named_Parameters/obj/Debug/net10.0/Named_Parameters.pdb
+/home/behnam/c_sharp/Named_Parameters/Named_Parameters/obj/Debug/net10.0/Named_Parameters.genruntimeconfig.cache
+/home/behnam/c_sharp/Named_Parameters/Named_Parameters/obj/Debug/net10.0/ref/Named_Parameters.dll

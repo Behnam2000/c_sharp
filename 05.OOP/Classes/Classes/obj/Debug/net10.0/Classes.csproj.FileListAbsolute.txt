@@ -1,0 +1,15 @@
+/home/behnam/c_sharp/Classes/Classes/bin/Debug/net10.0/Classes
+/home/behnam/c_sharp/Classes/Classes/bin/Debug/net10.0/Classes.deps.json
+/home/behnam/c_sharp/Classes/Classes/bin/Debug/net10.0/Classes.runtimeconfig.json
+/home/behnam/c_sharp/Classes/Classes/bin/Debug/net10.0/Classes.dll
+/home/behnam/c_sharp/Classes/Classes/bin/Debug/net10.0/Classes.pdb
+/home/behnam/c_sharp/Classes/Classes/obj/Debug/net10.0/Classes.GeneratedMSBuildEditorConfig.editorconfig
+/home/behnam/c_sharp/Classes/Classes/obj/Debug/net10.0/Classes.AssemblyInfoInputs.cache
+/home/behnam/c_sharp/Classes/Classes/obj/Debug/net10.0/Classes.AssemblyInfo.cs
+/home/behnam/c_sharp/Classes/Classes/obj/Debug/net10.0/Classes.csproj.CoreCompileInputs.cache
+/home/behnam/c_sharp/Classes/Classes/obj/Debug/net10.0/Classes.sourcelink.json
+/home/behnam/c_sharp/Classes/Classes/obj/Debug/net10.0/Classes.dll
+/home/behnam/c_sharp/Classes/Classes/obj/Debug/net10.0/refint/Classes.dll
+/home/behnam/c_sharp/Classes/Classes/obj/Debug/net10.0/Classes.pdb
+/home/behnam/c_sharp/Classes/Classes/obj/Debug/net10.0/Classes.genruntimeconfig.cache
+/home/behnam/c_sharp/Classes/Classes/obj/Debug/net10.0/ref/Classes.dll
