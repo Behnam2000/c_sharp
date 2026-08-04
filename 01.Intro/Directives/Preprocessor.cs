@@ -8,11 +8,11 @@ class Preprocessor
 {
     static void Main(string[] args)
     {
-#if DEBUG
+        #if DEBUG
         Console.WriteLine("Debug mode is enabled");
-#else
+        #else
         Consolw.WriteLine("Debug mode is disabled");
-#endif
+        #endif
 
     }
 }
