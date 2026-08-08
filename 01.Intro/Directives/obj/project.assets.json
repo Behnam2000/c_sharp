@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/behnam/c_sharp/Directives/Directives.csproj",
+      "projectUniqueName": "/home/behnam/c_sharp/01.Intro/Directives/Directives.csproj",
       "projectName": "Directives",
-      "projectPath": "/home/behnam/c_sharp/Directives/Directives.csproj",
+      "projectPath": "/home/behnam/c_sharp/01.Intro/Directives/Directives.csproj",
       "packagesPath": "/home/behnam/.nuget/packages/",
-      "outputPath": "/home/behnam/c_sharp/Directives/obj/",
+      "outputPath": "/home/behnam/c_sharp/01.Intro/Directives/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/behnam/.nuget/NuGet/NuGet.Config"

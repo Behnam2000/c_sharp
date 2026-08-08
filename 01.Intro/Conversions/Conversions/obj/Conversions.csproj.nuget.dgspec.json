@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/behnam/c_sharp/Conversions/Conversions/Conversions.csproj": {}
+    "/home/behnam/c_sharp/01.Intro/Conversions/Conversions/Conversions.csproj": {}
   },
   "projects": {
-    "/home/behnam/c_sharp/Conversions/Conversions/Conversions.csproj": {
+    "/home/behnam/c_sharp/01.Intro/Conversions/Conversions/Conversions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/behnam/c_sharp/Conversions/Conversions/Conversions.csproj",
+        "projectUniqueName": "/home/behnam/c_sharp/01.Intro/Conversions/Conversions/Conversions.csproj",
         "projectName": "Conversions",
-        "projectPath": "/home/behnam/c_sharp/Conversions/Conversions/Conversions.csproj",
+        "projectPath": "/home/behnam/c_sharp/01.Intro/Conversions/Conversions/Conversions.csproj",
         "packagesPath": "/home/behnam/.nuget/packages/",
-        "outputPath": "/home/behnam/c_sharp/Conversions/Conversions/obj/",
+        "outputPath": "/home/behnam/c_sharp/01.Intro/Conversions/Conversions/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/behnam/.nuget/NuGet/NuGet.Config"

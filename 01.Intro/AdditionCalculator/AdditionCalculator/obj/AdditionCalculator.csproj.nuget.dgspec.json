@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/behnam/c_sharp/AdditionCalculator/AdditionCalculator/AdditionCalculator.csproj": {}
+    "/home/behnam/c_sharp/01.Intro/AdditionCalculator/AdditionCalculator/AdditionCalculator.csproj": {}
   },
   "projects": {
-    "/home/behnam/c_sharp/AdditionCalculator/AdditionCalculator/AdditionCalculator.csproj": {
+    "/home/behnam/c_sharp/01.Intro/AdditionCalculator/AdditionCalculator/AdditionCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/behnam/c_sharp/AdditionCalculator/AdditionCalculator/AdditionCalculator.csproj",
+        "projectUniqueName": "/home/behnam/c_sharp/01.Intro/AdditionCalculator/AdditionCalculator/AdditionCalculator.csproj",
         "projectName": "AdditionCalculator",
-        "projectPath": "/home/behnam/c_sharp/AdditionCalculator/AdditionCalculator/AdditionCalculator.csproj",
+        "projectPath": "/home/behnam/c_sharp/01.Intro/AdditionCalculator/AdditionCalculator/AdditionCalculator.csproj",
         "packagesPath": "/home/behnam/.nuget/packages/",
-        "outputPath": "/home/behnam/c_sharp/AdditionCalculator/AdditionCalculator/obj/",
+        "outputPath": "/home/behnam/c_sharp/01.Intro/AdditionCalculator/AdditionCalculator/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/behnam/.nuget/NuGet/NuGet.Config"
