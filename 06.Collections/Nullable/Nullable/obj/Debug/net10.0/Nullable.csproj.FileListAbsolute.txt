@@ -1,0 +1,15 @@
+/home/behnam/c_sharp/learn/Nullable/Nullable/bin/Debug/net10.0/Nullable
+/home/behnam/c_sharp/learn/Nullable/Nullable/bin/Debug/net10.0/Nullable.deps.json
+/home/behnam/c_sharp/learn/Nullable/Nullable/bin/Debug/net10.0/Nullable.runtimeconfig.json
+/home/behnam/c_sharp/learn/Nullable/Nullable/bin/Debug/net10.0/Nullable.dll
+/home/behnam/c_sharp/learn/Nullable/Nullable/bin/Debug/net10.0/Nullable.pdb
+/home/behnam/c_sharp/learn/Nullable/Nullable/obj/Debug/net10.0/Nullable.GeneratedMSBuildEditorConfig.editorconfig
+/home/behnam/c_sharp/learn/Nullable/Nullable/obj/Debug/net10.0/Nullable.AssemblyInfoInputs.cache
+/home/behnam/c_sharp/learn/Nullable/Nullable/obj/Debug/net10.0/Nullable.AssemblyInfo.cs
+/home/behnam/c_sharp/learn/Nullable/Nullable/obj/Debug/net10.0/Nullable.csproj.CoreCompileInputs.cache
+/home/behnam/c_sharp/learn/Nullable/Nullable/obj/Debug/net10.0/Nullable.sourcelink.json
+/home/behnam/c_sharp/learn/Nullable/Nullable/obj/Debug/net10.0/Nullable.dll
+/home/behnam/c_sharp/learn/Nullable/Nullable/obj/Debug/net10.0/refint/Nullable.dll
+/home/behnam/c_sharp/learn/Nullable/Nullable/obj/Debug/net10.0/Nullable.pdb
+/home/behnam/c_sharp/learn/Nullable/Nullable/obj/Debug/net10.0/Nullable.genruntimeconfig.cache
+/home/behnam/c_sharp/learn/Nullable/Nullable/obj/Debug/net10.0/ref/Nullable.dll

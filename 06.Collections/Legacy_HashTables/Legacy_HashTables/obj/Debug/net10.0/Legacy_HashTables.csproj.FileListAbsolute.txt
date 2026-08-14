@@ -1,0 +1,15 @@
+/home/behnam/c_sharp/learn/Legacy_HashTables/Legacy_HashTables/bin/Debug/net10.0/Legacy_HashTables
+/home/behnam/c_sharp/learn/Legacy_HashTables/Legacy_HashTables/bin/Debug/net10.0/Legacy_HashTables.deps.json
+/home/behnam/c_sharp/learn/Legacy_HashTables/Legacy_HashTables/bin/Debug/net10.0/Legacy_HashTables.runtimeconfig.json
+/home/behnam/c_sharp/learn/Legacy_HashTables/Legacy_HashTables/bin/Debug/net10.0/Legacy_HashTables.dll
+/home/behnam/c_sharp/learn/Legacy_HashTables/Legacy_HashTables/bin/Debug/net10.0/Legacy_HashTables.pdb
+/home/behnam/c_sharp/learn/Legacy_HashTables/Legacy_HashTables/obj/Debug/net10.0/Legacy_HashTables.GeneratedMSBuildEditorConfig.editorconfig
+/home/behnam/c_sharp/learn/Legacy_HashTables/Legacy_HashTables/obj/Debug/net10.0/Legacy_HashTables.AssemblyInfoInputs.cache
+/home/behnam/c_sharp/learn/Legacy_HashTables/Legacy_HashTables/obj/Debug/net10.0/Legacy_HashTables.AssemblyInfo.cs
+/home/behnam/c_sharp/learn/Legacy_HashTables/Legacy_HashTables/obj/Debug/net10.0/Legacy_HashTables.csproj.CoreCompileInputs.cache
+/home/behnam/c_sharp/learn/Legacy_HashTables/Legacy_HashTables/obj/Debug/net10.0/Legacy_HashTables.sourcelink.json
+/home/behnam/c_sharp/learn/Legacy_HashTables/Legacy_HashTables/obj/Debug/net10.0/Legacy_HashTables.dll
+/home/behnam/c_sharp/learn/Legacy_HashTables/Legacy_HashTables/obj/Debug/net10.0/refint/Legacy_HashTables.dll
+/home/behnam/c_sharp/learn/Legacy_HashTables/Legacy_HashTables/obj/Debug/net10.0/Legacy_HashTables.pdb
+/home/behnam/c_sharp/learn/Legacy_HashTables/Legacy_HashTables/obj/Debug/net10.0/Legacy_HashTables.genruntimeconfig.cache
+/home/behnam/c_sharp/learn/Legacy_HashTables/Legacy_HashTables/obj/Debug/net10.0/ref/Legacy_HashTables.dll

@@ -1,0 +1,15 @@
+/home/behnam/c_sharp/learn/Dictionaries/Dictionaries/bin/Debug/net10.0/Dictionaries
+/home/behnam/c_sharp/learn/Dictionaries/Dictionaries/bin/Debug/net10.0/Dictionaries.deps.json
+/home/behnam/c_sharp/learn/Dictionaries/Dictionaries/bin/Debug/net10.0/Dictionaries.runtimeconfig.json
+/home/behnam/c_sharp/learn/Dictionaries/Dictionaries/bin/Debug/net10.0/Dictionaries.dll
+/home/behnam/c_sharp/learn/Dictionaries/Dictionaries/bin/Debug/net10.0/Dictionaries.pdb
+/home/behnam/c_sharp/learn/Dictionaries/Dictionaries/obj/Debug/net10.0/Dictionaries.GeneratedMSBuildEditorConfig.editorconfig
+/home/behnam/c_sharp/learn/Dictionaries/Dictionaries/obj/Debug/net10.0/Dictionaries.AssemblyInfoInputs.cache
+/home/behnam/c_sharp/learn/Dictionaries/Dictionaries/obj/Debug/net10.0/Dictionaries.AssemblyInfo.cs
+/home/behnam/c_sharp/learn/Dictionaries/Dictionaries/obj/Debug/net10.0/Dictionaries.csproj.CoreCompileInputs.cache
+/home/behnam/c_sharp/learn/Dictionaries/Dictionaries/obj/Debug/net10.0/Dictionaries.sourcelink.json
+/home/behnam/c_sharp/learn/Dictionaries/Dictionaries/obj/Debug/net10.0/Dictionaries.dll
+/home/behnam/c_sharp/learn/Dictionaries/Dictionaries/obj/Debug/net10.0/refint/Dictionaries.dll
+/home/behnam/c_sharp/learn/Dictionaries/Dictionaries/obj/Debug/net10.0/Dictionaries.pdb
+/home/behnam/c_sharp/learn/Dictionaries/Dictionaries/obj/Debug/net10.0/Dictionaries.genruntimeconfig.cache
+/home/behnam/c_sharp/learn/Dictionaries/Dictionaries/obj/Debug/net10.0/ref/Dictionaries.dll

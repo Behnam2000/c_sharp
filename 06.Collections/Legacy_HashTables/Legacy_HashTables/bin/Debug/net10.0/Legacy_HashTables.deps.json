@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Legacy_HashTables/1.0.0": {
+        "runtime": {
+          "Legacy_HashTables.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Legacy_HashTables/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

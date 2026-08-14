@@ -1,0 +1,15 @@
+/home/behnam/c_sharp/learn/ArrList/ArrList/bin/Debug/net10.0/ArrList
+/home/behnam/c_sharp/learn/ArrList/ArrList/bin/Debug/net10.0/ArrList.deps.json
+/home/behnam/c_sharp/learn/ArrList/ArrList/bin/Debug/net10.0/ArrList.runtimeconfig.json
+/home/behnam/c_sharp/learn/ArrList/ArrList/bin/Debug/net10.0/ArrList.dll
+/home/behnam/c_sharp/learn/ArrList/ArrList/bin/Debug/net10.0/ArrList.pdb
+/home/behnam/c_sharp/learn/ArrList/ArrList/obj/Debug/net10.0/ArrList.GeneratedMSBuildEditorConfig.editorconfig
+/home/behnam/c_sharp/learn/ArrList/ArrList/obj/Debug/net10.0/ArrList.AssemblyInfoInputs.cache
+/home/behnam/c_sharp/learn/ArrList/ArrList/obj/Debug/net10.0/ArrList.AssemblyInfo.cs
+/home/behnam/c_sharp/learn/ArrList/ArrList/obj/Debug/net10.0/ArrList.csproj.CoreCompileInputs.cache
+/home/behnam/c_sharp/learn/ArrList/ArrList/obj/Debug/net10.0/ArrList.sourcelink.json
+/home/behnam/c_sharp/learn/ArrList/ArrList/obj/Debug/net10.0/ArrList.dll
+/home/behnam/c_sharp/learn/ArrList/ArrList/obj/Debug/net10.0/refint/ArrList.dll
+/home/behnam/c_sharp/learn/ArrList/ArrList/obj/Debug/net10.0/ArrList.pdb
+/home/behnam/c_sharp/learn/ArrList/ArrList/obj/Debug/net10.0/ArrList.genruntimeconfig.cache
+/home/behnam/c_sharp/learn/ArrList/ArrList/obj/Debug/net10.0/ref/ArrList.dll

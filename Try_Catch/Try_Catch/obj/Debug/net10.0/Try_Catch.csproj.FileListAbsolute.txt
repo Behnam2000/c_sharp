@@ -1,0 +1,15 @@
+/home/behnam/c_sharp/learn/Try_Catch/Try_Catch/bin/Debug/net10.0/Try_Catch
+/home/behnam/c_sharp/learn/Try_Catch/Try_Catch/bin/Debug/net10.0/Try_Catch.deps.json
+/home/behnam/c_sharp/learn/Try_Catch/Try_Catch/bin/Debug/net10.0/Try_Catch.runtimeconfig.json
+/home/behnam/c_sharp/learn/Try_Catch/Try_Catch/bin/Debug/net10.0/Try_Catch.dll
+/home/behnam/c_sharp/learn/Try_Catch/Try_Catch/bin/Debug/net10.0/Try_Catch.pdb
+/home/behnam/c_sharp/learn/Try_Catch/Try_Catch/obj/Debug/net10.0/Try_Catch.GeneratedMSBuildEditorConfig.editorconfig
+/home/behnam/c_sharp/learn/Try_Catch/Try_Catch/obj/Debug/net10.0/Try_Catch.AssemblyInfoInputs.cache
+/home/behnam/c_sharp/learn/Try_Catch/Try_Catch/obj/Debug/net10.0/Try_Catch.AssemblyInfo.cs
+/home/behnam/c_sharp/learn/Try_Catch/Try_Catch/obj/Debug/net10.0/Try_Catch.csproj.CoreCompileInputs.cache
+/home/behnam/c_sharp/learn/Try_Catch/Try_Catch/obj/Debug/net10.0/Try_Catch.sourcelink.json
+/home/behnam/c_sharp/learn/Try_Catch/Try_Catch/obj/Debug/net10.0/Try_Catch.dll
+/home/behnam/c_sharp/learn/Try_Catch/Try_Catch/obj/Debug/net10.0/refint/Try_Catch.dll
+/home/behnam/c_sharp/learn/Try_Catch/Try_Catch/obj/Debug/net10.0/Try_Catch.pdb
+/home/behnam/c_sharp/learn/Try_Catch/Try_Catch/obj/Debug/net10.0/Try_Catch.genruntimeconfig.cache
+/home/behnam/c_sharp/learn/Try_Catch/Try_Catch/obj/Debug/net10.0/ref/Try_Catch.dll
