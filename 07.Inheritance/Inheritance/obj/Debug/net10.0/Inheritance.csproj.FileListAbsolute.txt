@@ -1,0 +1,15 @@
+/home/behnam/c_sharp/learn/Inheritance/Inheritance/bin/Debug/net10.0/Inheritance
+/home/behnam/c_sharp/learn/Inheritance/Inheritance/bin/Debug/net10.0/Inheritance.deps.json
+/home/behnam/c_sharp/learn/Inheritance/Inheritance/bin/Debug/net10.0/Inheritance.runtimeconfig.json
+/home/behnam/c_sharp/learn/Inheritance/Inheritance/bin/Debug/net10.0/Inheritance.dll
+/home/behnam/c_sharp/learn/Inheritance/Inheritance/bin/Debug/net10.0/Inheritance.pdb
+/home/behnam/c_sharp/learn/Inheritance/Inheritance/obj/Debug/net10.0/Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/home/behnam/c_sharp/learn/Inheritance/Inheritance/obj/Debug/net10.0/Inheritance.AssemblyInfoInputs.cache
+/home/behnam/c_sharp/learn/Inheritance/Inheritance/obj/Debug/net10.0/Inheritance.AssemblyInfo.cs
+/home/behnam/c_sharp/learn/Inheritance/Inheritance/obj/Debug/net10.0/Inheritance.csproj.CoreCompileInputs.cache
+/home/behnam/c_sharp/learn/Inheritance/Inheritance/obj/Debug/net10.0/Inheritance.sourcelink.json
+/home/behnam/c_sharp/learn/Inheritance/Inheritance/obj/Debug/net10.0/Inheritance.dll
+/home/behnam/c_sharp/learn/Inheritance/Inheritance/obj/Debug/net10.0/refint/Inheritance.dll
+/home/behnam/c_sharp/learn/Inheritance/Inheritance/obj/Debug/net10.0/Inheritance.pdb
+/home/behnam/c_sharp/learn/Inheritance/Inheritance/obj/Debug/net10.0/Inheritance.genruntimeconfig.cache
+/home/behnam/c_sharp/learn/Inheritance/Inheritance/obj/Debug/net10.0/ref/Inheritance.dll
