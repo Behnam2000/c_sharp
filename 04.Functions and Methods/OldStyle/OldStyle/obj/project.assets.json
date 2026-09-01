@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/behnam/c_sharp/OldStyle/OldStyle/OldStyle.csproj",
+      "projectUniqueName": "/home/behnam/c_sharp/learn/04.Functions and Methods/OldStyle/OldStyle/OldStyle.csproj",
       "projectName": "OldStyle",
-      "projectPath": "/home/behnam/c_sharp/OldStyle/OldStyle/OldStyle.csproj",
+      "projectPath": "/home/behnam/c_sharp/learn/04.Functions and Methods/OldStyle/OldStyle/OldStyle.csproj",
       "packagesPath": "/home/behnam/.nuget/packages/",
-      "outputPath": "/home/behnam/c_sharp/OldStyle/OldStyle/obj/",
+      "outputPath": "/home/behnam/c_sharp/learn/04.Functions and Methods/OldStyle/OldStyle/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/behnam/.nuget/NuGet/NuGet.Config"

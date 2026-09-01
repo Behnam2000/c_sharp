@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/behnam/c_sharp/Count_down/Count_down/Count_down.csproj",
+      "projectUniqueName": "/home/behnam/c_sharp/learn/03.Loops/Count_down/Count_down/Count_down.csproj",
       "projectName": "Count_down",
-      "projectPath": "/home/behnam/c_sharp/Count_down/Count_down/Count_down.csproj",
+      "projectPath": "/home/behnam/c_sharp/learn/03.Loops/Count_down/Count_down/Count_down.csproj",
       "packagesPath": "/home/behnam/.nuget/packages/",
-      "outputPath": "/home/behnam/c_sharp/Count_down/Count_down/obj/",
+      "outputPath": "/home/behnam/c_sharp/learn/03.Loops/Count_down/Count_down/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/behnam/.nuget/NuGet/NuGet.Config"

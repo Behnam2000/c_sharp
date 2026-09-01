@@ -1,0 +1,15 @@
+/home/behnam/c_sharp/learn/DateTimeApp/DateTimeApp/bin/Debug/net10.0/DateTimeApp
+/home/behnam/c_sharp/learn/DateTimeApp/DateTimeApp/bin/Debug/net10.0/DateTimeApp.deps.json
+/home/behnam/c_sharp/learn/DateTimeApp/DateTimeApp/bin/Debug/net10.0/DateTimeApp.runtimeconfig.json
+/home/behnam/c_sharp/learn/DateTimeApp/DateTimeApp/bin/Debug/net10.0/DateTimeApp.dll
+/home/behnam/c_sharp/learn/DateTimeApp/DateTimeApp/bin/Debug/net10.0/DateTimeApp.pdb
+/home/behnam/c_sharp/learn/DateTimeApp/DateTimeApp/obj/Debug/net10.0/DateTimeApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/behnam/c_sharp/learn/DateTimeApp/DateTimeApp/obj/Debug/net10.0/DateTimeApp.AssemblyInfoInputs.cache
+/home/behnam/c_sharp/learn/DateTimeApp/DateTimeApp/obj/Debug/net10.0/DateTimeApp.AssemblyInfo.cs
+/home/behnam/c_sharp/learn/DateTimeApp/DateTimeApp/obj/Debug/net10.0/DateTimeApp.csproj.CoreCompileInputs.cache
+/home/behnam/c_sharp/learn/DateTimeApp/DateTimeApp/obj/Debug/net10.0/DateTimeApp.sourcelink.json
+/home/behnam/c_sharp/learn/DateTimeApp/DateTimeApp/obj/Debug/net10.0/DateTimeApp.dll
+/home/behnam/c_sharp/learn/DateTimeApp/DateTimeApp/obj/Debug/net10.0/refint/DateTimeApp.dll
+/home/behnam/c_sharp/learn/DateTimeApp/DateTimeApp/obj/Debug/net10.0/DateTimeApp.pdb
+/home/behnam/c_sharp/learn/DateTimeApp/DateTimeApp/obj/Debug/net10.0/DateTimeApp.genruntimeconfig.cache
+/home/behnam/c_sharp/learn/DateTimeApp/DateTimeApp/obj/Debug/net10.0/ref/DateTimeApp.dll

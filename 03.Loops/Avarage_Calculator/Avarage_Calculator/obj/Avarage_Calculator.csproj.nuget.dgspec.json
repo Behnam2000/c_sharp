@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/behnam/c_sharp/Avarage_Calculator/Avarage_Calculator/Avarage_Calculator.csproj": {}
+    "/home/behnam/c_sharp/learn/03.Loops/Avarage_Calculator/Avarage_Calculator/Avarage_Calculator.csproj": {}
   },
   "projects": {
-    "/home/behnam/c_sharp/Avarage_Calculator/Avarage_Calculator/Avarage_Calculator.csproj": {
+    "/home/behnam/c_sharp/learn/03.Loops/Avarage_Calculator/Avarage_Calculator/Avarage_Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/behnam/c_sharp/Avarage_Calculator/Avarage_Calculator/Avarage_Calculator.csproj",
+        "projectUniqueName": "/home/behnam/c_sharp/learn/03.Loops/Avarage_Calculator/Avarage_Calculator/Avarage_Calculator.csproj",
         "projectName": "Avarage_Calculator",
-        "projectPath": "/home/behnam/c_sharp/Avarage_Calculator/Avarage_Calculator/Avarage_Calculator.csproj",
+        "projectPath": "/home/behnam/c_sharp/learn/03.Loops/Avarage_Calculator/Avarage_Calculator/Avarage_Calculator.csproj",
         "packagesPath": "/home/behnam/.nuget/packages/",
-        "outputPath": "/home/behnam/c_sharp/Avarage_Calculator/Avarage_Calculator/obj/",
+        "outputPath": "/home/behnam/c_sharp/learn/03.Loops/Avarage_Calculator/Avarage_Calculator/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/behnam/.nuget/NuGet/NuGet.Config"

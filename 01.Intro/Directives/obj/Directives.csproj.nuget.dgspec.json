@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/behnam/c_sharp/01.Intro/Directives/Directives.csproj": {}
+    "/home/behnam/c_sharp/learn/01.Intro/Directives/Directives.csproj": {}
   },
   "projects": {
-    "/home/behnam/c_sharp/01.Intro/Directives/Directives.csproj": {
+    "/home/behnam/c_sharp/learn/01.Intro/Directives/Directives.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/behnam/c_sharp/01.Intro/Directives/Directives.csproj",
+        "projectUniqueName": "/home/behnam/c_sharp/learn/01.Intro/Directives/Directives.csproj",
         "projectName": "Directives",
-        "projectPath": "/home/behnam/c_sharp/01.Intro/Directives/Directives.csproj",
+        "projectPath": "/home/behnam/c_sharp/learn/01.Intro/Directives/Directives.csproj",
         "packagesPath": "/home/behnam/.nuget/packages/",
-        "outputPath": "/home/behnam/c_sharp/01.Intro/Directives/obj/",
+        "outputPath": "/home/behnam/c_sharp/learn/01.Intro/Directives/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/behnam/.nuget/NuGet/NuGet.Config"

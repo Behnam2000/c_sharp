@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/behnam/c_sharp/Advanture_Game/Advanture_Game/Advanture_Game.csproj",
+      "projectUniqueName": "/home/behnam/c_sharp/learn/03.Loops/Advanture_Game/Advanture_Game/Advanture_Game.csproj",
       "projectName": "Advanture_Game",
-      "projectPath": "/home/behnam/c_sharp/Advanture_Game/Advanture_Game/Advanture_Game.csproj",
+      "projectPath": "/home/behnam/c_sharp/learn/03.Loops/Advanture_Game/Advanture_Game/Advanture_Game.csproj",
       "packagesPath": "/home/behnam/.nuget/packages/",
-      "outputPath": "/home/behnam/c_sharp/Advanture_Game/Advanture_Game/obj/",
+      "outputPath": "/home/behnam/c_sharp/learn/03.Loops/Advanture_Game/Advanture_Game/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/behnam/.nuget/NuGet/NuGet.Config"

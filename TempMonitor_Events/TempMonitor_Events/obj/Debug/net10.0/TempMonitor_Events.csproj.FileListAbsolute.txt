@@ -1,0 +1,15 @@
+/home/behnam/c_sharp/learn/TempMonitor_Events/TempMonitor_Events/obj/Debug/net10.0/TempMonitor_Events.GeneratedMSBuildEditorConfig.editorconfig
+/home/behnam/c_sharp/learn/TempMonitor_Events/TempMonitor_Events/obj/Debug/net10.0/TempMonitor_Events.AssemblyInfoInputs.cache
+/home/behnam/c_sharp/learn/TempMonitor_Events/TempMonitor_Events/obj/Debug/net10.0/TempMonitor_Events.AssemblyInfo.cs
+/home/behnam/c_sharp/learn/TempMonitor_Events/TempMonitor_Events/obj/Debug/net10.0/TempMonitor_Events.csproj.CoreCompileInputs.cache
+/home/behnam/c_sharp/learn/TempMonitor_Events/TempMonitor_Events/obj/Debug/net10.0/TempMonitor_Events.sourcelink.json
+/home/behnam/c_sharp/learn/TempMonitor_Events/TempMonitor_Events/bin/Debug/net10.0/TempMonitor_Events
+/home/behnam/c_sharp/learn/TempMonitor_Events/TempMonitor_Events/bin/Debug/net10.0/TempMonitor_Events.deps.json
+/home/behnam/c_sharp/learn/TempMonitor_Events/TempMonitor_Events/bin/Debug/net10.0/TempMonitor_Events.runtimeconfig.json
+/home/behnam/c_sharp/learn/TempMonitor_Events/TempMonitor_Events/bin/Debug/net10.0/TempMonitor_Events.dll
+/home/behnam/c_sharp/learn/TempMonitor_Events/TempMonitor_Events/bin/Debug/net10.0/TempMonitor_Events.pdb
+/home/behnam/c_sharp/learn/TempMonitor_Events/TempMonitor_Events/obj/Debug/net10.0/TempMonitor_Events.dll
+/home/behnam/c_sharp/learn/TempMonitor_Events/TempMonitor_Events/obj/Debug/net10.0/refint/TempMonitor_Events.dll
+/home/behnam/c_sharp/learn/TempMonitor_Events/TempMonitor_Events/obj/Debug/net10.0/TempMonitor_Events.pdb
+/home/behnam/c_sharp/learn/TempMonitor_Events/TempMonitor_Events/obj/Debug/net10.0/TempMonitor_Events.genruntimeconfig.cache
+/home/behnam/c_sharp/learn/TempMonitor_Events/TempMonitor_Events/obj/Debug/net10.0/ref/TempMonitor_Events.dll

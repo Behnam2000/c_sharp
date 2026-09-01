@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/behnam/c_sharp/learn/Inheritance/Inheritance/Inheritance.csproj",
+      "projectUniqueName": "/home/behnam/c_sharp/learn/07.Inheritance/Inheritance/Inheritance.csproj",
       "projectName": "Inheritance",
-      "projectPath": "/home/behnam/c_sharp/learn/Inheritance/Inheritance/Inheritance.csproj",
+      "projectPath": "/home/behnam/c_sharp/learn/07.Inheritance/Inheritance/Inheritance.csproj",
       "packagesPath": "/home/behnam/.nuget/packages/",
-      "outputPath": "/home/behnam/c_sharp/learn/Inheritance/Inheritance/obj/",
+      "outputPath": "/home/behnam/c_sharp/learn/07.Inheritance/Inheritance/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/behnam/.nuget/NuGet/NuGet.Config"

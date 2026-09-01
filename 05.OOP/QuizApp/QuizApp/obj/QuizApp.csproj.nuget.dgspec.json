@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/behnam/c_sharp/QuizApp/QuizApp/QuizApp.csproj": {}
+    "/home/behnam/c_sharp/learn/05.OOP/QuizApp/QuizApp/QuizApp.csproj": {}
   },
   "projects": {
-    "/home/behnam/c_sharp/QuizApp/QuizApp/QuizApp.csproj": {
+    "/home/behnam/c_sharp/learn/05.OOP/QuizApp/QuizApp/QuizApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/behnam/c_sharp/QuizApp/QuizApp/QuizApp.csproj",
+        "projectUniqueName": "/home/behnam/c_sharp/learn/05.OOP/QuizApp/QuizApp/QuizApp.csproj",
         "projectName": "QuizApp",
-        "projectPath": "/home/behnam/c_sharp/QuizApp/QuizApp/QuizApp.csproj",
+        "projectPath": "/home/behnam/c_sharp/learn/05.OOP/QuizApp/QuizApp/QuizApp.csproj",
         "packagesPath": "/home/behnam/.nuget/packages/",
-        "outputPath": "/home/behnam/c_sharp/QuizApp/QuizApp/obj/",
+        "outputPath": "/home/behnam/c_sharp/learn/05.OOP/QuizApp/QuizApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/behnam/.nuget/NuGet/NuGet.Config"

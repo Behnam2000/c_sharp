@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/behnam/c_sharp/Arrays/Arrays/Arrays.csproj",
+      "projectUniqueName": "/home/behnam/c_sharp/learn/03.Loops/Arrays/Arrays/Arrays.csproj",
       "projectName": "Arrays",
-      "projectPath": "/home/behnam/c_sharp/Arrays/Arrays/Arrays.csproj",
+      "projectPath": "/home/behnam/c_sharp/learn/03.Loops/Arrays/Arrays/Arrays.csproj",
       "packagesPath": "/home/behnam/.nuget/packages/",
-      "outputPath": "/home/behnam/c_sharp/Arrays/Arrays/obj/",
+      "outputPath": "/home/behnam/c_sharp/learn/03.Loops/Arrays/Arrays/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/behnam/.nuget/NuGet/NuGet.Config"

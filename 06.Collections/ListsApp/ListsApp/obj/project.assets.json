@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/behnam/c_sharp/learn/ListsApp/ListsApp/ListsApp.csproj",
+      "projectUniqueName": "/home/behnam/c_sharp/learn/06.Collections/ListsApp/ListsApp/ListsApp.csproj",
       "projectName": "ListsApp",
-      "projectPath": "/home/behnam/c_sharp/learn/ListsApp/ListsApp/ListsApp.csproj",
+      "projectPath": "/home/behnam/c_sharp/learn/06.Collections/ListsApp/ListsApp/ListsApp.csproj",
       "packagesPath": "/home/behnam/.nuget/packages/",
-      "outputPath": "/home/behnam/c_sharp/learn/ListsApp/ListsApp/obj/",
+      "outputPath": "/home/behnam/c_sharp/learn/06.Collections/ListsApp/ListsApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/behnam/.nuget/NuGet/NuGet.Config"

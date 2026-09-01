@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/behnam/c_sharp/Do_while_loop/Do_while_loop/Do_while_loop.csproj": {}
+    "/home/behnam/c_sharp/learn/03.Loops/Do_while_loop/Do_while_loop/Do_while_loop.csproj": {}
   },
   "projects": {
-    "/home/behnam/c_sharp/Do_while_loop/Do_while_loop/Do_while_loop.csproj": {
+    "/home/behnam/c_sharp/learn/03.Loops/Do_while_loop/Do_while_loop/Do_while_loop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/behnam/c_sharp/Do_while_loop/Do_while_loop/Do_while_loop.csproj",
+        "projectUniqueName": "/home/behnam/c_sharp/learn/03.Loops/Do_while_loop/Do_while_loop/Do_while_loop.csproj",
         "projectName": "Do_while_loop",
-        "projectPath": "/home/behnam/c_sharp/Do_while_loop/Do_while_loop/Do_while_loop.csproj",
+        "projectPath": "/home/behnam/c_sharp/learn/03.Loops/Do_while_loop/Do_while_loop/Do_while_loop.csproj",
         "packagesPath": "/home/behnam/.nuget/packages/",
-        "outputPath": "/home/behnam/c_sharp/Do_while_loop/Do_while_loop/obj/",
+        "outputPath": "/home/behnam/c_sharp/learn/03.Loops/Do_while_loop/Do_while_loop/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/behnam/.nuget/NuGet/NuGet.Config"

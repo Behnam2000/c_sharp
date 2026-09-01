@@ -1,0 +1,15 @@
+/home/behnam/c_sharp/learn/Enums/Enums/bin/Debug/net10.0/Enums
+/home/behnam/c_sharp/learn/Enums/Enums/bin/Debug/net10.0/Enums.deps.json
+/home/behnam/c_sharp/learn/Enums/Enums/bin/Debug/net10.0/Enums.runtimeconfig.json
+/home/behnam/c_sharp/learn/Enums/Enums/bin/Debug/net10.0/Enums.dll
+/home/behnam/c_sharp/learn/Enums/Enums/bin/Debug/net10.0/Enums.pdb
+/home/behnam/c_sharp/learn/Enums/Enums/obj/Debug/net10.0/Enums.GeneratedMSBuildEditorConfig.editorconfig
+/home/behnam/c_sharp/learn/Enums/Enums/obj/Debug/net10.0/Enums.AssemblyInfoInputs.cache
+/home/behnam/c_sharp/learn/Enums/Enums/obj/Debug/net10.0/Enums.AssemblyInfo.cs
+/home/behnam/c_sharp/learn/Enums/Enums/obj/Debug/net10.0/Enums.csproj.CoreCompileInputs.cache
+/home/behnam/c_sharp/learn/Enums/Enums/obj/Debug/net10.0/Enums.sourcelink.json
+/home/behnam/c_sharp/learn/Enums/Enums/obj/Debug/net10.0/Enums.dll
+/home/behnam/c_sharp/learn/Enums/Enums/obj/Debug/net10.0/refint/Enums.dll
+/home/behnam/c_sharp/learn/Enums/Enums/obj/Debug/net10.0/Enums.pdb
+/home/behnam/c_sharp/learn/Enums/Enums/obj/Debug/net10.0/Enums.genruntimeconfig.cache
+/home/behnam/c_sharp/learn/Enums/Enums/obj/Debug/net10.0/ref/Enums.dll

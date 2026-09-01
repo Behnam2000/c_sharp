@@ -1,0 +1,15 @@
+/home/behnam/c_sharp/learn/MathClass/MathClass/bin/Debug/net10.0/MathClass
+/home/behnam/c_sharp/learn/MathClass/MathClass/bin/Debug/net10.0/MathClass.deps.json
+/home/behnam/c_sharp/learn/MathClass/MathClass/bin/Debug/net10.0/MathClass.runtimeconfig.json
+/home/behnam/c_sharp/learn/MathClass/MathClass/bin/Debug/net10.0/MathClass.dll
+/home/behnam/c_sharp/learn/MathClass/MathClass/bin/Debug/net10.0/MathClass.pdb
+/home/behnam/c_sharp/learn/MathClass/MathClass/obj/Debug/net10.0/MathClass.GeneratedMSBuildEditorConfig.editorconfig
+/home/behnam/c_sharp/learn/MathClass/MathClass/obj/Debug/net10.0/MathClass.AssemblyInfoInputs.cache
+/home/behnam/c_sharp/learn/MathClass/MathClass/obj/Debug/net10.0/MathClass.AssemblyInfo.cs
+/home/behnam/c_sharp/learn/MathClass/MathClass/obj/Debug/net10.0/MathClass.csproj.CoreCompileInputs.cache
+/home/behnam/c_sharp/learn/MathClass/MathClass/obj/Debug/net10.0/MathClass.sourcelink.json
+/home/behnam/c_sharp/learn/MathClass/MathClass/obj/Debug/net10.0/MathClass.dll
+/home/behnam/c_sharp/learn/MathClass/MathClass/obj/Debug/net10.0/refint/MathClass.dll
+/home/behnam/c_sharp/learn/MathClass/MathClass/obj/Debug/net10.0/MathClass.pdb
+/home/behnam/c_sharp/learn/MathClass/MathClass/obj/Debug/net10.0/MathClass.genruntimeconfig.cache
+/home/behnam/c_sharp/learn/MathClass/MathClass/obj/Debug/net10.0/ref/MathClass.dll

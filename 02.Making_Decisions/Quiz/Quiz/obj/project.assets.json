@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/behnam/c_sharp/Quiz/Quiz/Quiz.csproj",
+      "projectUniqueName": "/home/behnam/c_sharp/learn/02.Making_Decisions/Quiz/Quiz/Quiz.csproj",
       "projectName": "Quiz",
-      "projectPath": "/home/behnam/c_sharp/Quiz/Quiz/Quiz.csproj",
+      "projectPath": "/home/behnam/c_sharp/learn/02.Making_Decisions/Quiz/Quiz/Quiz.csproj",
       "packagesPath": "/home/behnam/.nuget/packages/",
-      "outputPath": "/home/behnam/c_sharp/Quiz/Quiz/obj/",
+      "outputPath": "/home/behnam/c_sharp/learn/02.Making_Decisions/Quiz/Quiz/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/behnam/.nuget/NuGet/NuGet.Config"
@@ -66,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.110/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.111/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",

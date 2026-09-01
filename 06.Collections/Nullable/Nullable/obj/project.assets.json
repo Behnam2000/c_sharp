@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/behnam/c_sharp/learn/Nullable/Nullable/Nullable.csproj",
+      "projectUniqueName": "/home/behnam/c_sharp/learn/06.Collections/Nullable/Nullable/Nullable.csproj",
       "projectName": "Nullable",
-      "projectPath": "/home/behnam/c_sharp/learn/Nullable/Nullable/Nullable.csproj",
+      "projectPath": "/home/behnam/c_sharp/learn/06.Collections/Nullable/Nullable/Nullable.csproj",
       "packagesPath": "/home/behnam/.nuget/packages/",
-      "outputPath": "/home/behnam/c_sharp/learn/Nullable/Nullable/obj/",
+      "outputPath": "/home/behnam/c_sharp/learn/06.Collections/Nullable/Nullable/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/behnam/.nuget/NuGet/NuGet.Config"

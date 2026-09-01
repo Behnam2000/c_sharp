@@ -1,0 +1,15 @@
+/home/behnam/c_sharp/learn/LoggerApp/LoggerApp/bin/Debug/net10.0/LoggerApp
+/home/behnam/c_sharp/learn/LoggerApp/LoggerApp/bin/Debug/net10.0/LoggerApp.deps.json
+/home/behnam/c_sharp/learn/LoggerApp/LoggerApp/bin/Debug/net10.0/LoggerApp.runtimeconfig.json
+/home/behnam/c_sharp/learn/LoggerApp/LoggerApp/bin/Debug/net10.0/LoggerApp.dll
+/home/behnam/c_sharp/learn/LoggerApp/LoggerApp/bin/Debug/net10.0/LoggerApp.pdb
+/home/behnam/c_sharp/learn/LoggerApp/LoggerApp/obj/Debug/net10.0/LoggerApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/behnam/c_sharp/learn/LoggerApp/LoggerApp/obj/Debug/net10.0/LoggerApp.AssemblyInfoInputs.cache
+/home/behnam/c_sharp/learn/LoggerApp/LoggerApp/obj/Debug/net10.0/LoggerApp.AssemblyInfo.cs
+/home/behnam/c_sharp/learn/LoggerApp/LoggerApp/obj/Debug/net10.0/LoggerApp.csproj.CoreCompileInputs.cache
+/home/behnam/c_sharp/learn/LoggerApp/LoggerApp/obj/Debug/net10.0/LoggerApp.sourcelink.json
+/home/behnam/c_sharp/learn/LoggerApp/LoggerApp/obj/Debug/net10.0/LoggerApp.dll
+/home/behnam/c_sharp/learn/LoggerApp/LoggerApp/obj/Debug/net10.0/refint/LoggerApp.dll
+/home/behnam/c_sharp/learn/LoggerApp/LoggerApp/obj/Debug/net10.0/LoggerApp.pdb
+/home/behnam/c_sharp/learn/LoggerApp/LoggerApp/obj/Debug/net10.0/LoggerApp.genruntimeconfig.cache
+/home/behnam/c_sharp/learn/LoggerApp/LoggerApp/obj/Debug/net10.0/ref/LoggerApp.dll

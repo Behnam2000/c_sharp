@@ -1,0 +1,15 @@
+/home/behnam/c_sharp/learn/StructApp/StructApp/bin/Debug/net10.0/StructApp
+/home/behnam/c_sharp/learn/StructApp/StructApp/bin/Debug/net10.0/StructApp.deps.json
+/home/behnam/c_sharp/learn/StructApp/StructApp/bin/Debug/net10.0/StructApp.runtimeconfig.json
+/home/behnam/c_sharp/learn/StructApp/StructApp/bin/Debug/net10.0/StructApp.dll
+/home/behnam/c_sharp/learn/StructApp/StructApp/bin/Debug/net10.0/StructApp.pdb
+/home/behnam/c_sharp/learn/StructApp/StructApp/obj/Debug/net10.0/StructApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/behnam/c_sharp/learn/StructApp/StructApp/obj/Debug/net10.0/StructApp.AssemblyInfoInputs.cache
+/home/behnam/c_sharp/learn/StructApp/StructApp/obj/Debug/net10.0/StructApp.AssemblyInfo.cs
+/home/behnam/c_sharp/learn/StructApp/StructApp/obj/Debug/net10.0/StructApp.csproj.CoreCompileInputs.cache
+/home/behnam/c_sharp/learn/StructApp/StructApp/obj/Debug/net10.0/StructApp.sourcelink.json
+/home/behnam/c_sharp/learn/StructApp/StructApp/obj/Debug/net10.0/StructApp.dll
+/home/behnam/c_sharp/learn/StructApp/StructApp/obj/Debug/net10.0/refint/StructApp.dll
+/home/behnam/c_sharp/learn/StructApp/StructApp/obj/Debug/net10.0/StructApp.pdb
+/home/behnam/c_sharp/learn/StructApp/StructApp/obj/Debug/net10.0/StructApp.genruntimeconfig.cache
+/home/behnam/c_sharp/learn/StructApp/StructApp/obj/Debug/net10.0/ref/StructApp.dll

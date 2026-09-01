@@ -1,0 +1,15 @@
+/home/behnam/c_sharp/learn/DelegatesAndEvents/DelegatesAndEvents/bin/Debug/net10.0/DelegatesAndEvents
+/home/behnam/c_sharp/learn/DelegatesAndEvents/DelegatesAndEvents/bin/Debug/net10.0/DelegatesAndEvents.deps.json
+/home/behnam/c_sharp/learn/DelegatesAndEvents/DelegatesAndEvents/bin/Debug/net10.0/DelegatesAndEvents.runtimeconfig.json
+/home/behnam/c_sharp/learn/DelegatesAndEvents/DelegatesAndEvents/bin/Debug/net10.0/DelegatesAndEvents.dll
+/home/behnam/c_sharp/learn/DelegatesAndEvents/DelegatesAndEvents/bin/Debug/net10.0/DelegatesAndEvents.pdb
+/home/behnam/c_sharp/learn/DelegatesAndEvents/DelegatesAndEvents/obj/Debug/net10.0/DelegatesAndEvents.GeneratedMSBuildEditorConfig.editorconfig
+/home/behnam/c_sharp/learn/DelegatesAndEvents/DelegatesAndEvents/obj/Debug/net10.0/DelegatesAndEvents.AssemblyInfoInputs.cache
+/home/behnam/c_sharp/learn/DelegatesAndEvents/DelegatesAndEvents/obj/Debug/net10.0/DelegatesAndEvents.AssemblyInfo.cs
+/home/behnam/c_sharp/learn/DelegatesAndEvents/DelegatesAndEvents/obj/Debug/net10.0/DelegatesAndEvents.csproj.CoreCompileInputs.cache
+/home/behnam/c_sharp/learn/DelegatesAndEvents/DelegatesAndEvents/obj/Debug/net10.0/DelegatesAndEvents.sourcelink.json
+/home/behnam/c_sharp/learn/DelegatesAndEvents/DelegatesAndEvents/obj/Debug/net10.0/DelegatesAndEvents.dll
+/home/behnam/c_sharp/learn/DelegatesAndEvents/DelegatesAndEvents/obj/Debug/net10.0/refint/DelegatesAndEvents.dll
+/home/behnam/c_sharp/learn/DelegatesAndEvents/DelegatesAndEvents/obj/Debug/net10.0/DelegatesAndEvents.pdb
+/home/behnam/c_sharp/learn/DelegatesAndEvents/DelegatesAndEvents/obj/Debug/net10.0/DelegatesAndEvents.genruntimeconfig.cache
+/home/behnam/c_sharp/learn/DelegatesAndEvents/DelegatesAndEvents/obj/Debug/net10.0/ref/DelegatesAndEvents.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArrList")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a01feb63b7a347b6b451945ae09757d5f98a05bc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39583705c62c35caeeb05c4cdfde712d4a5d3e06")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArrList")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArrList")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

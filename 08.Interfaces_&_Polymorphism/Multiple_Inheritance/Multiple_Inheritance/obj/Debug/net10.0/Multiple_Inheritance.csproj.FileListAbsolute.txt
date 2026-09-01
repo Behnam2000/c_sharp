@@ -1,0 +1,15 @@
+/home/behnam/c_sharp/learn/Multiple_Inheritance/Multiple_Inheritance/bin/Debug/net10.0/Multiple_Inheritance
+/home/behnam/c_sharp/learn/Multiple_Inheritance/Multiple_Inheritance/bin/Debug/net10.0/Multiple_Inheritance.deps.json
+/home/behnam/c_sharp/learn/Multiple_Inheritance/Multiple_Inheritance/bin/Debug/net10.0/Multiple_Inheritance.runtimeconfig.json
+/home/behnam/c_sharp/learn/Multiple_Inheritance/Multiple_Inheritance/bin/Debug/net10.0/Multiple_Inheritance.dll
+/home/behnam/c_sharp/learn/Multiple_Inheritance/Multiple_Inheritance/bin/Debug/net10.0/Multiple_Inheritance.pdb
+/home/behnam/c_sharp/learn/Multiple_Inheritance/Multiple_Inheritance/obj/Debug/net10.0/Multiple_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/home/behnam/c_sharp/learn/Multiple_Inheritance/Multiple_Inheritance/obj/Debug/net10.0/Multiple_Inheritance.AssemblyInfoInputs.cache
+/home/behnam/c_sharp/learn/Multiple_Inheritance/Multiple_Inheritance/obj/Debug/net10.0/Multiple_Inheritance.AssemblyInfo.cs
+/home/behnam/c_sharp/learn/Multiple_Inheritance/Multiple_Inheritance/obj/Debug/net10.0/Multiple_Inheritance.csproj.CoreCompileInputs.cache
+/home/behnam/c_sharp/learn/Multiple_Inheritance/Multiple_Inheritance/obj/Debug/net10.0/Multiple_Inheritance.sourcelink.json
+/home/behnam/c_sharp/learn/Multiple_Inheritance/Multiple_Inheritance/obj/Debug/net10.0/Multiple_Inheritance.dll
+/home/behnam/c_sharp/learn/Multiple_Inheritance/Multiple_Inheritance/obj/Debug/net10.0/refint/Multiple_Inheritance.dll
+/home/behnam/c_sharp/learn/Multiple_Inheritance/Multiple_Inheritance/obj/Debug/net10.0/Multiple_Inheritance.pdb
+/home/behnam/c_sharp/learn/Multiple_Inheritance/Multiple_Inheritance/obj/Debug/net10.0/Multiple_Inheritance.genruntimeconfig.cache
+/home/behnam/c_sharp/learn/Multiple_Inheritance/Multiple_Inheritance/obj/Debug/net10.0/ref/Multiple_Inheritance.dll

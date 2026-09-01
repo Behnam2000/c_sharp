@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/behnam/c_sharp/Random_Number/Random_Number/Random_Number.csproj": {}
+    "/home/behnam/c_sharp/learn/03.Loops/Random_Number/Random_Number/Random_Number.csproj": {}
   },
   "projects": {
-    "/home/behnam/c_sharp/Random_Number/Random_Number/Random_Number.csproj": {
+    "/home/behnam/c_sharp/learn/03.Loops/Random_Number/Random_Number/Random_Number.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/behnam/c_sharp/Random_Number/Random_Number/Random_Number.csproj",
+        "projectUniqueName": "/home/behnam/c_sharp/learn/03.Loops/Random_Number/Random_Number/Random_Number.csproj",
         "projectName": "Random_Number",
-        "projectPath": "/home/behnam/c_sharp/Random_Number/Random_Number/Random_Number.csproj",
+        "projectPath": "/home/behnam/c_sharp/learn/03.Loops/Random_Number/Random_Number/Random_Number.csproj",
         "packagesPath": "/home/behnam/.nuget/packages/",
-        "outputPath": "/home/behnam/c_sharp/Random_Number/Random_Number/obj/",
+        "outputPath": "/home/behnam/c_sharp/learn/03.Loops/Random_Number/Random_Number/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/behnam/.nuget/NuGet/NuGet.Config"

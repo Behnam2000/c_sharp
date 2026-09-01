@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/behnam/c_sharp/Named_Parameters/Named_Parameters/Named_Parameters.csproj",
+      "projectUniqueName": "/home/behnam/c_sharp/learn/05.OOP/Named_Parameters/Named_Parameters/Named_Parameters.csproj",
       "projectName": "Named_Parameters",
-      "projectPath": "/home/behnam/c_sharp/Named_Parameters/Named_Parameters/Named_Parameters.csproj",
+      "projectPath": "/home/behnam/c_sharp/learn/05.OOP/Named_Parameters/Named_Parameters/Named_Parameters.csproj",
       "packagesPath": "/home/behnam/.nuget/packages/",
-      "outputPath": "/home/behnam/c_sharp/Named_Parameters/Named_Parameters/obj/",
+      "outputPath": "/home/behnam/c_sharp/learn/05.OOP/Named_Parameters/Named_Parameters/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/behnam/.nuget/NuGet/NuGet.Config"

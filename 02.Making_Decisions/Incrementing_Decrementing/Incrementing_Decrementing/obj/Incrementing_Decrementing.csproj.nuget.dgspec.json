@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/behnam/c_sharp/Incrementing_Decrementing/Incrementing_Decrementing/Incrementing_Decrementing.csproj": {}
+    "/home/behnam/c_sharp/learn/02.Making_Decisions/Incrementing_Decrementing/Incrementing_Decrementing/Incrementing_Decrementing.csproj": {}
   },
   "projects": {
-    "/home/behnam/c_sharp/Incrementing_Decrementing/Incrementing_Decrementing/Incrementing_Decrementing.csproj": {
+    "/home/behnam/c_sharp/learn/02.Making_Decisions/Incrementing_Decrementing/Incrementing_Decrementing/Incrementing_Decrementing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/behnam/c_sharp/Incrementing_Decrementing/Incrementing_Decrementing/Incrementing_Decrementing.csproj",
+        "projectUniqueName": "/home/behnam/c_sharp/learn/02.Making_Decisions/Incrementing_Decrementing/Incrementing_Decrementing/Incrementing_Decrementing.csproj",
         "projectName": "Incrementing_Decrementing",
-        "projectPath": "/home/behnam/c_sharp/Incrementing_Decrementing/Incrementing_Decrementing/Incrementing_Decrementing.csproj",
+        "projectPath": "/home/behnam/c_sharp/learn/02.Making_Decisions/Incrementing_Decrementing/Incrementing_Decrementing/Incrementing_Decrementing.csproj",
         "packagesPath": "/home/behnam/.nuget/packages/",
-        "outputPath": "/home/behnam/c_sharp/Incrementing_Decrementing/Incrementing_Decrementing/obj/",
+        "outputPath": "/home/behnam/c_sharp/learn/02.Making_Decisions/Incrementing_Decrementing/Incrementing_Decrementing/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/behnam/.nuget/NuGet/NuGet.Config"
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.110/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.111/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

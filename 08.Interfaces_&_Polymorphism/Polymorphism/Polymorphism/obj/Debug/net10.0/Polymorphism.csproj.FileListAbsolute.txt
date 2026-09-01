@@ -1,0 +1,15 @@
+/home/behnam/c_sharp/learn/Polymorphism/Polymorphism/bin/Debug/net10.0/Polymorphism
+/home/behnam/c_sharp/learn/Polymorphism/Polymorphism/bin/Debug/net10.0/Polymorphism.deps.json
+/home/behnam/c_sharp/learn/Polymorphism/Polymorphism/bin/Debug/net10.0/Polymorphism.runtimeconfig.json
+/home/behnam/c_sharp/learn/Polymorphism/Polymorphism/bin/Debug/net10.0/Polymorphism.dll
+/home/behnam/c_sharp/learn/Polymorphism/Polymorphism/bin/Debug/net10.0/Polymorphism.pdb
+/home/behnam/c_sharp/learn/Polymorphism/Polymorphism/obj/Debug/net10.0/Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+/home/behnam/c_sharp/learn/Polymorphism/Polymorphism/obj/Debug/net10.0/Polymorphism.AssemblyInfoInputs.cache
+/home/behnam/c_sharp/learn/Polymorphism/Polymorphism/obj/Debug/net10.0/Polymorphism.AssemblyInfo.cs
+/home/behnam/c_sharp/learn/Polymorphism/Polymorphism/obj/Debug/net10.0/Polymorphism.csproj.CoreCompileInputs.cache
+/home/behnam/c_sharp/learn/Polymorphism/Polymorphism/obj/Debug/net10.0/Polymorphism.sourcelink.json
+/home/behnam/c_sharp/learn/Polymorphism/Polymorphism/obj/Debug/net10.0/Polymorphism.dll
+/home/behnam/c_sharp/learn/Polymorphism/Polymorphism/obj/Debug/net10.0/refint/Polymorphism.dll
+/home/behnam/c_sharp/learn/Polymorphism/Polymorphism/obj/Debug/net10.0/Polymorphism.pdb
+/home/behnam/c_sharp/learn/Polymorphism/Polymorphism/obj/Debug/net10.0/Polymorphism.genruntimeconfig.cache
+/home/behnam/c_sharp/learn/Polymorphism/Polymorphism/obj/Debug/net10.0/ref/Polymorphism.dll

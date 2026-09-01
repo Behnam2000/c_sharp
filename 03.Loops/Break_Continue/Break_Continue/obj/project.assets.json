@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/behnam/c_sharp/Break_Continue/Break_Continue/Break_Continue.csproj",
+      "projectUniqueName": "/home/behnam/c_sharp/learn/03.Loops/Break_Continue/Break_Continue/Break_Continue.csproj",
       "projectName": "Break_Continue",
-      "projectPath": "/home/behnam/c_sharp/Break_Continue/Break_Continue/Break_Continue.csproj",
+      "projectPath": "/home/behnam/c_sharp/learn/03.Loops/Break_Continue/Break_Continue/Break_Continue.csproj",
       "packagesPath": "/home/behnam/.nuget/packages/",
-      "outputPath": "/home/behnam/c_sharp/Break_Continue/Break_Continue/obj/",
+      "outputPath": "/home/behnam/c_sharp/learn/03.Loops/Break_Continue/Break_Continue/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/behnam/.nuget/NuGet/NuGet.Config"

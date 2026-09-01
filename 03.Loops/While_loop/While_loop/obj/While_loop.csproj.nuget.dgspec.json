@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/behnam/c_sharp/While_loop/While_loop/While_loop.csproj": {}
+    "/home/behnam/c_sharp/learn/03.Loops/While_loop/While_loop/While_loop.csproj": {}
   },
   "projects": {
-    "/home/behnam/c_sharp/While_loop/While_loop/While_loop.csproj": {
+    "/home/behnam/c_sharp/learn/03.Loops/While_loop/While_loop/While_loop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/behnam/c_sharp/While_loop/While_loop/While_loop.csproj",
+        "projectUniqueName": "/home/behnam/c_sharp/learn/03.Loops/While_loop/While_loop/While_loop.csproj",
         "projectName": "While_loop",
-        "projectPath": "/home/behnam/c_sharp/While_loop/While_loop/While_loop.csproj",
+        "projectPath": "/home/behnam/c_sharp/learn/03.Loops/While_loop/While_loop/While_loop.csproj",
         "packagesPath": "/home/behnam/.nuget/packages/",
-        "outputPath": "/home/behnam/c_sharp/While_loop/While_loop/obj/",
+        "outputPath": "/home/behnam/c_sharp/learn/03.Loops/While_loop/While_loop/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/behnam/.nuget/NuGet/NuGet.Config"

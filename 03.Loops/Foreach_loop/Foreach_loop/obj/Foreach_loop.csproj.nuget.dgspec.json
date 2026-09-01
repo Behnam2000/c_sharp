@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/behnam/c_sharp/Foreach_loop/Foreach_loop/Foreach_loop.csproj": {}
+    "/home/behnam/c_sharp/learn/03.Loops/Foreach_loop/Foreach_loop/Foreach_loop.csproj": {}
   },
   "projects": {
-    "/home/behnam/c_sharp/Foreach_loop/Foreach_loop/Foreach_loop.csproj": {
+    "/home/behnam/c_sharp/learn/03.Loops/Foreach_loop/Foreach_loop/Foreach_loop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/behnam/c_sharp/Foreach_loop/Foreach_loop/Foreach_loop.csproj",
+        "projectUniqueName": "/home/behnam/c_sharp/learn/03.Loops/Foreach_loop/Foreach_loop/Foreach_loop.csproj",
         "projectName": "Foreach_loop",
-        "projectPath": "/home/behnam/c_sharp/Foreach_loop/Foreach_loop/Foreach_loop.csproj",
+        "projectPath": "/home/behnam/c_sharp/learn/03.Loops/Foreach_loop/Foreach_loop/Foreach_loop.csproj",
         "packagesPath": "/home/behnam/.nuget/packages/",
-        "outputPath": "/home/behnam/c_sharp/Foreach_loop/Foreach_loop/obj/",
+        "outputPath": "/home/behnam/c_sharp/learn/03.Loops/Foreach_loop/Foreach_loop/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/behnam/.nuget/NuGet/NuGet.Config"

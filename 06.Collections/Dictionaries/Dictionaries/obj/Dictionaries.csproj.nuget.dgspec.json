@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/behnam/c_sharp/learn/Dictionaries/Dictionaries/Dictionaries.csproj": {}
+    "/home/behnam/c_sharp/learn/06.Collections/Dictionaries/Dictionaries/Dictionaries.csproj": {}
   },
   "projects": {
-    "/home/behnam/c_sharp/learn/Dictionaries/Dictionaries/Dictionaries.csproj": {
+    "/home/behnam/c_sharp/learn/06.Collections/Dictionaries/Dictionaries/Dictionaries.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/behnam/c_sharp/learn/Dictionaries/Dictionaries/Dictionaries.csproj",
+        "projectUniqueName": "/home/behnam/c_sharp/learn/06.Collections/Dictionaries/Dictionaries/Dictionaries.csproj",
         "projectName": "Dictionaries",
-        "projectPath": "/home/behnam/c_sharp/learn/Dictionaries/Dictionaries/Dictionaries.csproj",
+        "projectPath": "/home/behnam/c_sharp/learn/06.Collections/Dictionaries/Dictionaries/Dictionaries.csproj",
         "packagesPath": "/home/behnam/.nuget/packages/",
-        "outputPath": "/home/behnam/c_sharp/learn/Dictionaries/Dictionaries/obj/",
+        "outputPath": "/home/behnam/c_sharp/learn/06.Collections/Dictionaries/Dictionaries/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/behnam/.nuget/NuGet/NuGet.Config"

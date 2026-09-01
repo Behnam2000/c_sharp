@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/behnam/c_sharp/learn/ArrList/ArrList/ArrList.csproj",
+      "projectUniqueName": "/home/behnam/c_sharp/learn/06.Collections/ArrList/ArrList/ArrList.csproj",
       "projectName": "ArrList",
-      "projectPath": "/home/behnam/c_sharp/learn/ArrList/ArrList/ArrList.csproj",
+      "projectPath": "/home/behnam/c_sharp/learn/06.Collections/ArrList/ArrList/ArrList.csproj",
       "packagesPath": "/home/behnam/.nuget/packages/",
-      "outputPath": "/home/behnam/c_sharp/learn/ArrList/ArrList/obj/",
+      "outputPath": "/home/behnam/c_sharp/learn/06.Collections/ArrList/ArrList/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/behnam/.nuget/NuGet/NuGet.Config"

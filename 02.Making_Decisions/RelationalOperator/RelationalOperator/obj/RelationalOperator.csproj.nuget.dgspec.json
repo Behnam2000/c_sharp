@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/behnam/c_sharp/RelationalOperator/RelationalOperator/RelationalOperator.csproj": {}
+    "/home/behnam/c_sharp/learn/02.Making_Decisions/RelationalOperator/RelationalOperator/RelationalOperator.csproj": {}
   },
   "projects": {
-    "/home/behnam/c_sharp/RelationalOperator/RelationalOperator/RelationalOperator.csproj": {
+    "/home/behnam/c_sharp/learn/02.Making_Decisions/RelationalOperator/RelationalOperator/RelationalOperator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/behnam/c_sharp/RelationalOperator/RelationalOperator/RelationalOperator.csproj",
+        "projectUniqueName": "/home/behnam/c_sharp/learn/02.Making_Decisions/RelationalOperator/RelationalOperator/RelationalOperator.csproj",
         "projectName": "RelationalOperator",
-        "projectPath": "/home/behnam/c_sharp/RelationalOperator/RelationalOperator/RelationalOperator.csproj",
+        "projectPath": "/home/behnam/c_sharp/learn/02.Making_Decisions/RelationalOperator/RelationalOperator/RelationalOperator.csproj",
         "packagesPath": "/home/behnam/.nuget/packages/",
-        "outputPath": "/home/behnam/c_sharp/RelationalOperator/RelationalOperator/obj/",
+        "outputPath": "/home/behnam/c_sharp/learn/02.Making_Decisions/RelationalOperator/RelationalOperator/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/behnam/.nuget/NuGet/NuGet.Config"
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.110/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.111/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

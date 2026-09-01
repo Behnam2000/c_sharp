@@ -1,0 +1,15 @@
+/home/behnam/c_sharp/learn/Multicast_Delegates/Multicast_Delegates/bin/Debug/net10.0/Multicast_Delegates
+/home/behnam/c_sharp/learn/Multicast_Delegates/Multicast_Delegates/bin/Debug/net10.0/Multicast_Delegates.deps.json
+/home/behnam/c_sharp/learn/Multicast_Delegates/Multicast_Delegates/bin/Debug/net10.0/Multicast_Delegates.runtimeconfig.json
+/home/behnam/c_sharp/learn/Multicast_Delegates/Multicast_Delegates/bin/Debug/net10.0/Multicast_Delegates.dll
+/home/behnam/c_sharp/learn/Multicast_Delegates/Multicast_Delegates/bin/Debug/net10.0/Multicast_Delegates.pdb
+/home/behnam/c_sharp/learn/Multicast_Delegates/Multicast_Delegates/obj/Debug/net10.0/Multicast_Delegates.GeneratedMSBuildEditorConfig.editorconfig
+/home/behnam/c_sharp/learn/Multicast_Delegates/Multicast_Delegates/obj/Debug/net10.0/Multicast_Delegates.AssemblyInfoInputs.cache
+/home/behnam/c_sharp/learn/Multicast_Delegates/Multicast_Delegates/obj/Debug/net10.0/Multicast_Delegates.AssemblyInfo.cs
+/home/behnam/c_sharp/learn/Multicast_Delegates/Multicast_Delegates/obj/Debug/net10.0/Multicast_Delegates.csproj.CoreCompileInputs.cache
+/home/behnam/c_sharp/learn/Multicast_Delegates/Multicast_Delegates/obj/Debug/net10.0/Multicast_Delegates.sourcelink.json
+/home/behnam/c_sharp/learn/Multicast_Delegates/Multicast_Delegates/obj/Debug/net10.0/Multicast_Delegates.dll
+/home/behnam/c_sharp/learn/Multicast_Delegates/Multicast_Delegates/obj/Debug/net10.0/refint/Multicast_Delegates.dll
+/home/behnam/c_sharp/learn/Multicast_Delegates/Multicast_Delegates/obj/Debug/net10.0/Multicast_Delegates.pdb
+/home/behnam/c_sharp/learn/Multicast_Delegates/Multicast_Delegates/obj/Debug/net10.0/Multicast_Delegates.genruntimeconfig.cache
+/home/behnam/c_sharp/learn/Multicast_Delegates/Multicast_Delegates/obj/Debug/net10.0/ref/Multicast_Delegates.dll

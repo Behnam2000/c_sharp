@@ -1,0 +1,15 @@
+/home/behnam/c_sharp/learn/InterfaceApp/InterfaceApp/bin/Debug/net10.0/InterfaceApp
+/home/behnam/c_sharp/learn/InterfaceApp/InterfaceApp/bin/Debug/net10.0/InterfaceApp.deps.json
+/home/behnam/c_sharp/learn/InterfaceApp/InterfaceApp/bin/Debug/net10.0/InterfaceApp.runtimeconfig.json
+/home/behnam/c_sharp/learn/InterfaceApp/InterfaceApp/bin/Debug/net10.0/InterfaceApp.dll
+/home/behnam/c_sharp/learn/InterfaceApp/InterfaceApp/bin/Debug/net10.0/InterfaceApp.pdb
+/home/behnam/c_sharp/learn/InterfaceApp/InterfaceApp/obj/Debug/net10.0/InterfaceApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/behnam/c_sharp/learn/InterfaceApp/InterfaceApp/obj/Debug/net10.0/InterfaceApp.AssemblyInfoInputs.cache
+/home/behnam/c_sharp/learn/InterfaceApp/InterfaceApp/obj/Debug/net10.0/InterfaceApp.AssemblyInfo.cs
+/home/behnam/c_sharp/learn/InterfaceApp/InterfaceApp/obj/Debug/net10.0/InterfaceApp.csproj.CoreCompileInputs.cache
+/home/behnam/c_sharp/learn/InterfaceApp/InterfaceApp/obj/Debug/net10.0/InterfaceApp.sourcelink.json
+/home/behnam/c_sharp/learn/InterfaceApp/InterfaceApp/obj/Debug/net10.0/InterfaceApp.dll
+/home/behnam/c_sharp/learn/InterfaceApp/InterfaceApp/obj/Debug/net10.0/refint/InterfaceApp.dll
+/home/behnam/c_sharp/learn/InterfaceApp/InterfaceApp/obj/Debug/net10.0/InterfaceApp.pdb
+/home/behnam/c_sharp/learn/InterfaceApp/InterfaceApp/obj/Debug/net10.0/InterfaceApp.genruntimeconfig.cache
+/home/behnam/c_sharp/learn/InterfaceApp/InterfaceApp/obj/Debug/net10.0/ref/InterfaceApp.dll

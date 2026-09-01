@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/behnam/c_sharp/04.Functions and Methods/WeatherStationSimulator/WeatherStationSimulator/WeatherStationSimulator.csproj",
+      "projectUniqueName": "/home/behnam/c_sharp/learn/04.Functions and Methods/WeatherStationSimulator/WeatherStationSimulator/WeatherStationSimulator.csproj",
       "projectName": "WeatherStationSimulator",
-      "projectPath": "/home/behnam/c_sharp/04.Functions and Methods/WeatherStationSimulator/WeatherStationSimulator/WeatherStationSimulator.csproj",
+      "projectPath": "/home/behnam/c_sharp/learn/04.Functions and Methods/WeatherStationSimulator/WeatherStationSimulator/WeatherStationSimulator.csproj",
       "packagesPath": "/home/behnam/.nuget/packages/",
-      "outputPath": "/home/behnam/c_sharp/04.Functions and Methods/WeatherStationSimulator/WeatherStationSimulator/obj/",
+      "outputPath": "/home/behnam/c_sharp/learn/04.Functions and Methods/WeatherStationSimulator/WeatherStationSimulator/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/behnam/.nuget/NuGet/NuGet.Config"

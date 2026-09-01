@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/behnam/c_sharp/learn/Legacy_HashTables/Legacy_HashTables/Legacy_HashTables.csproj": {}
+    "/home/behnam/c_sharp/learn/06.Collections/Legacy_HashTables/Legacy_HashTables/Legacy_HashTables.csproj": {}
   },
   "projects": {
-    "/home/behnam/c_sharp/learn/Legacy_HashTables/Legacy_HashTables/Legacy_HashTables.csproj": {
+    "/home/behnam/c_sharp/learn/06.Collections/Legacy_HashTables/Legacy_HashTables/Legacy_HashTables.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/behnam/c_sharp/learn/Legacy_HashTables/Legacy_HashTables/Legacy_HashTables.csproj",
+        "projectUniqueName": "/home/behnam/c_sharp/learn/06.Collections/Legacy_HashTables/Legacy_HashTables/Legacy_HashTables.csproj",
         "projectName": "Legacy_HashTables",
-        "projectPath": "/home/behnam/c_sharp/learn/Legacy_HashTables/Legacy_HashTables/Legacy_HashTables.csproj",
+        "projectPath": "/home/behnam/c_sharp/learn/06.Collections/Legacy_HashTables/Legacy_HashTables/Legacy_HashTables.csproj",
         "packagesPath": "/home/behnam/.nuget/packages/",
-        "outputPath": "/home/behnam/c_sharp/learn/Legacy_HashTables/Legacy_HashTables/obj/",
+        "outputPath": "/home/behnam/c_sharp/learn/06.Collections/Legacy_HashTables/Legacy_HashTables/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/behnam/.nuget/NuGet/NuGet.Config"
