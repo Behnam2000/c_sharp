@@ -1,0 +1,15 @@
+/home/behnam/c_sharp/learn/RegexE/RegexE/bin/Debug/net10.0/RegexE
+/home/behnam/c_sharp/learn/RegexE/RegexE/bin/Debug/net10.0/RegexE.deps.json
+/home/behnam/c_sharp/learn/RegexE/RegexE/bin/Debug/net10.0/RegexE.runtimeconfig.json
+/home/behnam/c_sharp/learn/RegexE/RegexE/bin/Debug/net10.0/RegexE.dll
+/home/behnam/c_sharp/learn/RegexE/RegexE/bin/Debug/net10.0/RegexE.pdb
+/home/behnam/c_sharp/learn/RegexE/RegexE/obj/Debug/net10.0/RegexE.GeneratedMSBuildEditorConfig.editorconfig
+/home/behnam/c_sharp/learn/RegexE/RegexE/obj/Debug/net10.0/RegexE.AssemblyInfoInputs.cache
+/home/behnam/c_sharp/learn/RegexE/RegexE/obj/Debug/net10.0/RegexE.AssemblyInfo.cs
+/home/behnam/c_sharp/learn/RegexE/RegexE/obj/Debug/net10.0/RegexE.csproj.CoreCompileInputs.cache
+/home/behnam/c_sharp/learn/RegexE/RegexE/obj/Debug/net10.0/RegexE.sourcelink.json
+/home/behnam/c_sharp/learn/RegexE/RegexE/obj/Debug/net10.0/RegexE.dll
+/home/behnam/c_sharp/learn/RegexE/RegexE/obj/Debug/net10.0/refint/RegexE.dll
+/home/behnam/c_sharp/learn/RegexE/RegexE/obj/Debug/net10.0/RegexE.pdb
+/home/behnam/c_sharp/learn/RegexE/RegexE/obj/Debug/net10.0/RegexE.genruntimeconfig.cache
+/home/behnam/c_sharp/learn/RegexE/RegexE/obj/Debug/net10.0/ref/RegexE.dll

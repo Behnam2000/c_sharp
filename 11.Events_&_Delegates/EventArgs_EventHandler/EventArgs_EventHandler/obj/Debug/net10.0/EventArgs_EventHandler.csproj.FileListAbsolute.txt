@@ -1,0 +1,15 @@
+/home/behnam/c_sharp/learn/EventArgs_EventHandler/EventArgs_EventHandler/bin/Debug/net10.0/EventArgs_EventHandler
+/home/behnam/c_sharp/learn/EventArgs_EventHandler/EventArgs_EventHandler/bin/Debug/net10.0/EventArgs_EventHandler.deps.json
+/home/behnam/c_sharp/learn/EventArgs_EventHandler/EventArgs_EventHandler/bin/Debug/net10.0/EventArgs_EventHandler.runtimeconfig.json
+/home/behnam/c_sharp/learn/EventArgs_EventHandler/EventArgs_EventHandler/bin/Debug/net10.0/EventArgs_EventHandler.dll
+/home/behnam/c_sharp/learn/EventArgs_EventHandler/EventArgs_EventHandler/bin/Debug/net10.0/EventArgs_EventHandler.pdb
+/home/behnam/c_sharp/learn/EventArgs_EventHandler/EventArgs_EventHandler/obj/Debug/net10.0/EventArgs_EventHandler.GeneratedMSBuildEditorConfig.editorconfig
+/home/behnam/c_sharp/learn/EventArgs_EventHandler/EventArgs_EventHandler/obj/Debug/net10.0/EventArgs_EventHandler.AssemblyInfoInputs.cache
+/home/behnam/c_sharp/learn/EventArgs_EventHandler/EventArgs_EventHandler/obj/Debug/net10.0/EventArgs_EventHandler.AssemblyInfo.cs
+/home/behnam/c_sharp/learn/EventArgs_EventHandler/EventArgs_EventHandler/obj/Debug/net10.0/EventArgs_EventHandler.csproj.CoreCompileInputs.cache
+/home/behnam/c_sharp/learn/EventArgs_EventHandler/EventArgs_EventHandler/obj/Debug/net10.0/EventArgs_EventHandler.sourcelink.json
+/home/behnam/c_sharp/learn/EventArgs_EventHandler/EventArgs_EventHandler/obj/Debug/net10.0/EventArgs_EventHandler.dll
+/home/behnam/c_sharp/learn/EventArgs_EventHandler/EventArgs_EventHandler/obj/Debug/net10.0/refint/EventArgs_EventHandler.dll
+/home/behnam/c_sharp/learn/EventArgs_EventHandler/EventArgs_EventHandler/obj/Debug/net10.0/EventArgs_EventHandler.pdb
+/home/behnam/c_sharp/learn/EventArgs_EventHandler/EventArgs_EventHandler/obj/Debug/net10.0/EventArgs_EventHandler.genruntimeconfig.cache
+/home/behnam/c_sharp/learn/EventArgs_EventHandler/EventArgs_EventHandler/obj/Debug/net10.0/ref/EventArgs_EventHandler.dll

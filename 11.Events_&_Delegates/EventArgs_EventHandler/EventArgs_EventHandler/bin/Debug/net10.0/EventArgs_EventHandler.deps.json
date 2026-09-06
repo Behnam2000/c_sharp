@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "EventArgs_EventHandler/1.0.0": {
+        "runtime": {
+          "EventArgs_EventHandler.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EventArgs_EventHandler/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
