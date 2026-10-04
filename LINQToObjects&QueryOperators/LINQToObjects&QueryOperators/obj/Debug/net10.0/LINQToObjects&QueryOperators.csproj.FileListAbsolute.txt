@@ -1,0 +1,15 @@
+/home/behnam/c_sharp/learn/LINQToObjects&QueryOperators/LINQToObjects&QueryOperators/bin/Debug/net10.0/LINQToObjects&QueryOperators
+/home/behnam/c_sharp/learn/LINQToObjects&QueryOperators/LINQToObjects&QueryOperators/bin/Debug/net10.0/LINQToObjects&QueryOperators.deps.json
+/home/behnam/c_sharp/learn/LINQToObjects&QueryOperators/LINQToObjects&QueryOperators/bin/Debug/net10.0/LINQToObjects&QueryOperators.runtimeconfig.json
+/home/behnam/c_sharp/learn/LINQToObjects&QueryOperators/LINQToObjects&QueryOperators/bin/Debug/net10.0/LINQToObjects&QueryOperators.dll
+/home/behnam/c_sharp/learn/LINQToObjects&QueryOperators/LINQToObjects&QueryOperators/bin/Debug/net10.0/LINQToObjects&QueryOperators.pdb
+/home/behnam/c_sharp/learn/LINQToObjects&QueryOperators/LINQToObjects&QueryOperators/obj/Debug/net10.0/LINQToObjects&QueryOperators.GeneratedMSBuildEditorConfig.editorconfig
+/home/behnam/c_sharp/learn/LINQToObjects&QueryOperators/LINQToObjects&QueryOperators/obj/Debug/net10.0/LINQToObjects&QueryOperators.AssemblyInfoInputs.cache
+/home/behnam/c_sharp/learn/LINQToObjects&QueryOperators/LINQToObjects&QueryOperators/obj/Debug/net10.0/LINQToObjects&QueryOperators.AssemblyInfo.cs
+/home/behnam/c_sharp/learn/LINQToObjects&QueryOperators/LINQToObjects&QueryOperators/obj/Debug/net10.0/LINQToObjects&QueryOperators.csproj.CoreCompileInputs.cache
+/home/behnam/c_sharp/learn/LINQToObjects&QueryOperators/LINQToObjects&QueryOperators/obj/Debug/net10.0/LINQToObjects&QueryOperators.sourcelink.json
+/home/behnam/c_sharp/learn/LINQToObjects&QueryOperators/LINQToObjects&QueryOperators/obj/Debug/net10.0/LINQToObjects&QueryOperators.dll
+/home/behnam/c_sharp/learn/LINQToObjects&QueryOperators/LINQToObjects&QueryOperators/obj/Debug/net10.0/refint/LINQToObjects&QueryOperators.dll
+/home/behnam/c_sharp/learn/LINQToObjects&QueryOperators/LINQToObjects&QueryOperators/obj/Debug/net10.0/LINQToObjects&QueryOperators.pdb
+/home/behnam/c_sharp/learn/LINQToObjects&QueryOperators/LINQToObjects&QueryOperators/obj/Debug/net10.0/LINQToObjects&QueryOperators.genruntimeconfig.cache
+/home/behnam/c_sharp/learn/LINQToObjects&QueryOperators/LINQToObjects&QueryOperators/obj/Debug/net10.0/ref/LINQToObjects&QueryOperators.dll

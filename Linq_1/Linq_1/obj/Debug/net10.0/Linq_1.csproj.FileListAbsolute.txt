@@ -1,0 +1,15 @@
+/home/behnam/c_sharp/learn/Linq_1/Linq_1/bin/Debug/net10.0/Linq_1
+/home/behnam/c_sharp/learn/Linq_1/Linq_1/bin/Debug/net10.0/Linq_1.deps.json
+/home/behnam/c_sharp/learn/Linq_1/Linq_1/bin/Debug/net10.0/Linq_1.runtimeconfig.json
+/home/behnam/c_sharp/learn/Linq_1/Linq_1/bin/Debug/net10.0/Linq_1.dll
+/home/behnam/c_sharp/learn/Linq_1/Linq_1/bin/Debug/net10.0/Linq_1.pdb
+/home/behnam/c_sharp/learn/Linq_1/Linq_1/obj/Debug/net10.0/Linq_1.GeneratedMSBuildEditorConfig.editorconfig
+/home/behnam/c_sharp/learn/Linq_1/Linq_1/obj/Debug/net10.0/Linq_1.AssemblyInfoInputs.cache
+/home/behnam/c_sharp/learn/Linq_1/Linq_1/obj/Debug/net10.0/Linq_1.AssemblyInfo.cs
+/home/behnam/c_sharp/learn/Linq_1/Linq_1/obj/Debug/net10.0/Linq_1.csproj.CoreCompileInputs.cache
+/home/behnam/c_sharp/learn/Linq_1/Linq_1/obj/Debug/net10.0/Linq_1.sourcelink.json
+/home/behnam/c_sharp/learn/Linq_1/Linq_1/obj/Debug/net10.0/Linq_1.dll
+/home/behnam/c_sharp/learn/Linq_1/Linq_1/obj/Debug/net10.0/refint/Linq_1.dll
+/home/behnam/c_sharp/learn/Linq_1/Linq_1/obj/Debug/net10.0/Linq_1.pdb
+/home/behnam/c_sharp/learn/Linq_1/Linq_1/obj/Debug/net10.0/Linq_1.genruntimeconfig.cache
+/home/behnam/c_sharp/learn/Linq_1/Linq_1/obj/Debug/net10.0/ref/Linq_1.dll
