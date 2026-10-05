@@ -1,0 +1,31 @@
+@model LinqToSQL.Models.Student
+
+<h2>Add New Student</h2>
+
+<!-- The form will POST to the 'Create' action in the 'Students' controller -->
+<form asp-controller="Student" asp-action="Create" method="post">
+    
+    <!-- Displays any validation errors -->
+    <div asp-validation-summary="All" class="text-danger"></div>
+
+    <div>
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control" required />
+        <!-- The asp-for helper automatically generates: id="Name" name="Name" -->
+    </div>
+
+    <div style="margin-top: 10px;">
+        <label asp-for="Gender"></label>
+        <input asp-for="Gender" class="form-control" required />
+    </div>
+    
+    <div style="margin-top: 10px;">
+        <label asp-for="UniversityId"></label>
+        <input asp-for="UniversityId" class="form-control" required />
+    </div>
+
+    <div style="margin-top: 20px;">
+        <button type="submit" class="btn btn-primary">Save to Database</button>
+        <a asp-action="Index">Cancel</a>
+    </div>
+</form>

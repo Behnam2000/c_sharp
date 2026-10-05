@@ -1,0 +1,21 @@
+@model IEnumerable<LinqToSQL.Models.Lecture>
+
+<h2>Lectures List</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Lecture lecture in Model)
+        {
+            <tr>
+                <td>@lecture.Id</td>
+                <td>@lecture.Name</td>
+            </tr>
+        }
+    </tbody>
+</table>

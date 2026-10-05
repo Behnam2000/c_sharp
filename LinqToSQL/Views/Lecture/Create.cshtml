@@ -1,0 +1,18 @@
+@model LinqToSQL.Models.Lecture
+
+<h2>Add New Lecture</h2>
+
+<form asp-controller="Lecture" asp-action="Create" method="post">
+    <div asp-validation-summary="All" class="text-danger"></div>
+
+    <div>
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control" required />
+    </div>
+
+    <div style="margin-top: 20px;">
+        <button type="submit" class="btn btn-primary">Save the lecture</button>
+        <a asp-action="Index">Cancel</a>
+    </div>
+
+</form>

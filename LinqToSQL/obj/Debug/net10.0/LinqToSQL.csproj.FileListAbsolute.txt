@@ -187,3 +187,4 @@
 /home/behnam/c_sharp/learn/LinqToSQL/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
 /home/behnam/c_sharp/learn/LinqToSQL/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
 /home/behnam/c_sharp/learn/LinqToSQL/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/behnam/c_sharp/learn/LinqToSQL/bin/Debug/net10.0/EFCore.NamingConventions.dll

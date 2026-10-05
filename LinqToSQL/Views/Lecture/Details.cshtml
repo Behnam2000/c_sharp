@@ -1,0 +1,34 @@
+@model LinqToSQL.Models.Lecture
+
+<h2>Lecture Details: @Model.Name</h2>
+
+<h3>Enrolled Students</h3>
+
+@if (Model.StudentLectures != null && Model.StudentLectures.Any())
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Student ID</th>
+                <th>Name</th>
+                <th>Gender</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (var joinEntity in Model.StudentLectures)
+            {
+                <tr>
+                    <td>@joinEntity.Student.Id</td>
+                    <td>@joinEntity.Student.Name</td>
+                    <td>@joinEntity.Student.Gender</td>
+                </tr>
+            }
+        </tbody>
+
+    </table>
+}
+else
+{
+    <p>No Students are currently enrolled in this lecture</p>
+}
