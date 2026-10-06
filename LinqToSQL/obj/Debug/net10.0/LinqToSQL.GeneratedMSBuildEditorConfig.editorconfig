@@ -42,8 +42,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTGVjdHVyZS9DcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/behnam/c_sharp/learn/LinqToSQL/Views/Lecture/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTGVjdHVyZS9EZXRhaWxzLmNzaHRtbA==
+[/home/behnam/c_sharp/learn/LinqToSQL/Views/Lecture/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTGVjdHVyZS9EZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [/home/behnam/c_sharp/learn/LinqToSQL/Views/Lecture/Index.cshtml]
@@ -62,8 +62,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3R1ZGVudC9DcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[/home/behnam/c_sharp/learn/LinqToSQL/Views/Student/Enroll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3R1ZGVudC9FbnJvbGwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [/home/behnam/c_sharp/learn/LinqToSQL/Views/Student/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3R1ZGVudC9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/behnam/c_sharp/learn/LinqToSQL/Views/University/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVW5pdmVyc2l0eS9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/behnam/c_sharp/learn/LinqToSQL/Views/University/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVW5pdmVyc2l0eS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/home/behnam/c_sharp/learn/LinqToSQL/Views/_ViewImports.cshtml]

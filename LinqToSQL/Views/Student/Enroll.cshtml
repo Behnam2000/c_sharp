@@ -1,0 +1,26 @@
+@model LinqToSQL.Models.StudentLecture
+
+<h2>Enroll Student in Lecture</h2>
+
+<form asp-action="Enroll" method="post">
+    <div asp-validation-summary="All" class="text-danger"></div>
+
+    <div>
+        <label asp-for="StudentId">Student</label>
+        <select asp-for="StudentId" asp-items="ViewBag.Student" class="form-control">
+            <option value="">-- Select a Student --</option>
+        </select>
+    </div>
+
+    <div style="margin-top: 10px;">
+        <label asp-for="LectureId">Lecture</label>
+        <select asp-for="LectureId" asp-items="ViewBag.Lecture" class="form-control">
+            <option value="">-- Select a Lecture --</option>
+        </select>
+    </div>
+
+    <div style="margin-top: 20px;">
+        <button type="submit" class="btn btn-primary">Enroll</button>
+        <a asp-action="Index">Cancel</a>
+    </div>
+</form>

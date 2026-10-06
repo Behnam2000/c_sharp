@@ -10,6 +10,7 @@
             <th>Name</th>
             <th>Gender</th>
             <th>University</th>
+            <th>Lectures</th>
         </tr>
     </thead>
     <tbody>
@@ -22,6 +23,21 @@
                 <td>
                     @* Display the University Name, or "N/A" if null  *@
                     @(stu.University != null ? stu.University.Name : "N/A")
+                </td>
+
+                <td>
+                    @if (stu.StudentLectures != null && stu.StudentLectures.Any())
+                    {
+                        @* Extract just the lecture names and join them with a comma *@
+                        var lectureNames = stu.StudentLectures.Select(sl => sl.Lecture.Name);
+                        @string.Join(", ", lectureNames)
+
+
+                    }
+                    else
+                    {
+                        <span style="color: gray;">None</span>
+                    }
                 </td>
             </tr>
         }

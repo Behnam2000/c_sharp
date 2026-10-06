@@ -39,7 +39,7 @@ public class LectureController : Controller
         return View(lecture);
     }
 
-    public IActionResult Details(int id)
+    public IActionResult Detail(int id)
     {
         var lecture = _context.Lecture
             .Include(l => l.StudentLectures)    // 1. Fetch the mapping rows

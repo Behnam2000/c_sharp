@@ -1,0 +1,46 @@
+@using Microsoft.EntityFrameworkCore.Metadata.Internal
+@model IEnumerable<LinqToSQL.Models.University>
+
+<h2>University List & Enrolled Students</h2>
+
+@if (Model != null && Model.Any())
+{
+    @foreach (var uni in Model)
+    {
+        <div class="card mb-4" style="margin-bottom: 20px; border: 1px solid #ccc; padding: 15px">
+            <h3>@uni.Name</h3>
+            
+            @if (uni.Students != null && uni.Students.Any())
+            {
+                <table class="table table-bordered">
+                    <thead style="background-color: #f8f9fa;">
+                        <tr>
+                            <th>Student ID</th>
+                            <th>Name</th>
+                            <th>Gender</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @* Inner loop: Iterate only through students of THIS university *@
+                        @foreach (var student in uni.Students)
+                        {
+                            <tr>
+                                <td>@student.Id</td>
+                                <td>@student.Name</td>
+                                <td>@student.Gender</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            }
+            else
+            {
+                <p style="color: gray;">No students are currently enrolled at this university.</p>
+            }
+        </div>
+    }
+}
+else
+{
+    <p>No universities found in the database.</p>
+}

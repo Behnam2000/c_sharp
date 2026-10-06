@@ -1,5 +1,7 @@
+using System.Security.Cryptography;
 using LinqToSQL.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 
 
@@ -16,7 +18,10 @@ public class StudentController : Controller
     {
         // .Include() performs a SQL JOIN to get the University data
 
-        var students = _context.Student.Include(s => s.University).ToList();
+        var students = _context.Student.Include(s => s.University)
+            .Include(s => s.StudentLectures)
+                .ThenInclude(sl => sl.Lecture)
+        .ToList();
 
         return View(students);
     }
@@ -51,4 +56,42 @@ public class StudentController : Controller
         return View(stu);
 
     }
+
+    // Handles HTTP GET: /Student/Enroll
+    public IActionResult Enroll()
+    {
+        // Creates a list of options: the value is "Id", the display text is "Name"
+        ViewBag.Student = new SelectList(_context.Student, "Id", "Name");
+        ViewBag.Lecture = new SelectList(_context.Lecture, "Id", "Name");
+
+        return View();
+    }
+
+    [HttpPost]
+    [ValidateAntiForgeryToken]
+    public IActionResult Enroll(StudentLecture enrollment)
+    {
+        if (ModelState.IsValid)
+        {
+            // Optional: Check if this exact enrollment already exists to prevent duplicates
+            bool alreadyEnrolled = _context.StudentLecture.Any(sl => sl.StudentId == enrollment.StudentId
+            && sl.LectureId == enrollment.LectureId);
+
+            if (!alreadyEnrolled)
+            {
+                _context.StudentLecture.Add(enrollment);
+                _context.SaveChanges();
+            }
+
+            return RedirectToAction(nameof(Enroll));
+        }
+
+        // If validation fails, we must repopulate the dropdowns before returning the view
+        ViewBag.Student = new SelectList(_context.Student, "Id", "Name", enrollment.StudentId);
+        ViewBag.Lecture = new SelectList(_context.Lecture, "Id", "Name", enrollment.LectureId);
+        return View(enrollment);
+    }
+
+
+
 }

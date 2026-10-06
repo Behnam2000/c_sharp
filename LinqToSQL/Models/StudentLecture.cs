@@ -1,4 +1,7 @@
 using LinqToSQL.Models;
+using Microsoft.AspNetCore.Mvc.ModelBinding.Validation;
+
+namespace LinqToSQL.Models;
 
 public class StudentLecture
 {
@@ -6,11 +9,15 @@ public class StudentLecture
 
     // Foreign Key and Navigation to Student[cite: 2]
     public int StudentId { get; set; }// Maps to 'student_id' (int4)[cite: 2]
+
+    [ValidateNever]
     public Student? Student { get; set; }
 
 
     // Foreign Key and Navigation to Lecture[cite: 2]
     public int LectureId { get; set; } // Maps to 'lecture_id' (int4)[cite: 2]
+
+    [ValidateNever]
     public Lecture? Lecture { get; set; }
 
 }
