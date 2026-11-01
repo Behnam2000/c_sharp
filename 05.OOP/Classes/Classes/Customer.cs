@@ -76,6 +76,9 @@ internal class Customer
 
 
     // Static Keyword
+    // In C#, the static keyword is used to declare members of
+    // a class that blongs to the class itself rather than 
+    // to any specific intasnce of the class
     public static void DoSomeCostumerStuff()
     {
         System.Console.WriteLine("Costumer Stuff");

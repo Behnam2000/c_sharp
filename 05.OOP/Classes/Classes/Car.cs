@@ -6,7 +6,6 @@ namespace Classes
     internal class Car
     {
         // ---------- Static Field:
-
         public static int NumberOfCars = 0;
 
 
